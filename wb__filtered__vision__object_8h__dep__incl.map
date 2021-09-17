@@ -1,0 +1,28 @@
+<map id="typeClassDefs/wb_filtered_vision_object.h" name="typeClassDefs/wb_filtered_vision_object.h">
+<area shape="rect" id="node1" title=" " alt="" coords="577,5,749,47"/>
+<area shape="rect" id="node2" href="$guwhiteboard__c__types__manual__definitions_8h.html" title=" " alt="" coords="224,184,375,225"/>
+<area shape="rect" id="node6" href="$_filtered_vision_object_8hpp.html" title=" " alt="" coords="569,95,758,136"/>
+<area shape="rect" id="node22" href="$wb__filtered__arrayballsightings_8h.html" title=" " alt="" coords="367,95,539,136"/>
+<area shape="rect" id="node24" href="$wb__filtered__arrayonedimobjects_8h.html" title=" " alt="" coords="783,95,955,136"/>
+<area shape="rect" id="node26" href="$wb__filtered__vision__object_8c.html" title=" " alt="" coords="979,95,1151,136"/>
+<area shape="rect" id="node3" href="$guwhiteboard__c__types_8h.html" title=" " alt="" coords="204,281,365,307"/>
+<area shape="rect" id="node4" href="$guwhiteboarddeserialiser_8c.html" title=" " alt="" coords="5,370,180,397"/>
+<area shape="rect" id="node5" href="$guwhiteboardserialiser_8c.html" title=" " alt="" coords="204,370,365,397"/>
+<area shape="rect" id="node7" href="$_filtered_vision_object_8h.html" title=" " alt="" coords="647,184,837,225"/>
+<area shape="rect" id="node8" href="$_filtered_array_ball_sightings_8hpp.html" title=" " alt="" coords="389,273,572,315"/>
+<area shape="rect" id="node18" href="$_filtered_array_one_dim_objects_8hpp.html" title=" " alt="" coords="797,273,980,315"/>
+<area shape="rect" id="node20" href="$_filtered_one_dim_object_8hpp.html" title=" " alt="" coords="596,273,773,315"/>
+<area shape="rect" id="node9" href="$guwhiteboardposter_8h.html" title=" " alt="" coords="816,370,961,397"/>
+<area shape="rect" id="node15" href="$_filtered_array_ball_sightings_8h.html" title=" " alt="" coords="389,363,572,404"/>
+<area shape="rect" id="node10" href="$_simple_whiteboard_test_8h.html" title=" " alt="" coords="831,452,997,493"/>
+<area shape="rect" id="node12" href="$guwhiteboardgetter_8h.html" title=" " alt="" coords="1021,459,1164,486"/>
+<area shape="rect" id="node14" href="$guwhiteboardposter_8cpp.html" title=" " alt="" coords="648,459,807,486"/>
+<area shape="rect" id="node11" href="$_simple_whiteboard_test_8mm.html" title=" " alt="" coords="815,541,997,583"/>
+<area shape="rect" id="node13" href="$guwhiteboardgetter_8cpp.html" title=" " alt="" coords="1021,549,1177,575"/>
+<area shape="rect" id="node16" href="$_filtered_array_one_dim_ball_8hpp.html" title=" " alt="" coords="389,452,572,493"/>
+<area shape="rect" id="node17" href="$_filtered_array_one_dim_ball_8h.html" title=" " alt="" coords="389,541,572,583"/>
+<area shape="rect" id="node19" href="$_filtered_array_one_dim_objects_8h.html" title=" " alt="" coords="1188,452,1371,493"/>
+<area shape="rect" id="node21" href="$_filtered_one_dim_object_8h.html" title=" " alt="" coords="596,363,773,404"/>
+<area shape="rect" id="node23" href="$wb__filtered__arrayballsightings_8c.html" title=" " alt="" coords="451,184,623,225"/>
+<area shape="rect" id="node25" href="$wb__filtered__arrayonedimobjects_8c.html" title=" " alt="" coords="912,184,1084,225"/>
+</map>

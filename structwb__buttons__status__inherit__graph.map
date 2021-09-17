@@ -1,0 +1,4 @@
+<map id="wb_buttons_status" name="wb_buttons_status">
+<area shape="rect" id="node1" title="An Array of buttons for talking with an NXT." alt="" coords="17,5,181,83"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_n_x_t___two___touch___status.html" title="Class for controlling differential robots Defines whiteboard message." alt="" coords="5,131,193,281"/>
+</map>

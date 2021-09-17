@@ -1,0 +1,6 @@
+<map id="guWhiteboard::VisionLine" name="guWhiteboard::VisionLine">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_line." alt="" coords="5,456,173,680"/>
+<area shape="rect" id="node2" href="$structwb__vision__line.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="36,329,143,407"/>
+<area shape="rect" id="node3" href="$structwb__pixel__coordinate__line.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="6,175,173,252"/>
+<area shape="rect" id="node4" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="20,5,159,97"/>
+</map>

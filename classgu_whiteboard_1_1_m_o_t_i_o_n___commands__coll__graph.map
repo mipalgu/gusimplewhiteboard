@@ -1,0 +1,3 @@
+<map id="guWhiteboard::MOTION_Commands" name="guWhiteboard::MOTION_Commands">
+<area shape="rect" id="node1" title="Motion Command class, this class is used to send commands to a motion module via the Whiteboard." alt="" coords="5,5,172,156"/>
+</map>

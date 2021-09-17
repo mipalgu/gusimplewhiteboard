@@ -1,0 +1,4 @@
+<map id="guWhiteboard::DifferentialRobotControlStatus" name="guWhiteboard::DifferentialRobotControlStatus">
+<area shape="rect" id="node1" title="Class for controlling differential robots Defines whiteboard message." alt="" coords="5,145,175,340"/>
+<area shape="rect" id="node2" href="$structwb__differential__robot.html" title="Differential, kinematic robot model." alt="" coords="10,5,170,97"/>
+</map>

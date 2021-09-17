@@ -1,0 +1,3 @@
+<map id="guWhiteboard::WEBOTS_NXT_bumper" name="guWhiteboard::WEBOTS_NXT_bumper">
+<area shape="rect" id="node1" title="This class reports the status of the Bumper behaviour." alt="" coords="5,5,187,259"/>
+</map>

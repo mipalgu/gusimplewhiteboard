@@ -1,0 +1,4 @@
+<map id="wb_microwave_status" name="wb_microwave_status">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="33,5,185,112"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_microwave_status.html" title="Provides a C++ wrapper around wb_microwave_status." alt="" coords="5,160,213,384"/>
+</map>

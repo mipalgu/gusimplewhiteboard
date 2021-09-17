@@ -1,0 +1,4 @@
+<map id="guWhiteboard::Giraff_MainSerialInterface" name="guWhiteboard::Giraff_MainSerialInterface">
+<area shape="rect" id="node1" title="Serial interface for the main giraff board." alt="" coords="14,263,205,399"/>
+<area shape="rect" id="node2" href="$structwb__giraff__main__serial.html" title="Serial interface for the main giraff board." alt="" coords="5,5,213,215"/>
+</map>

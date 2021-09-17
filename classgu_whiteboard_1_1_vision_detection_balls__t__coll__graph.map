@@ -1,0 +1,8 @@
+<map id="guWhiteboard::VisionDetectionBalls_t" name="guWhiteboard::VisionDetectionBalls_t">
+<area shape="rect" id="node1" title="WB Ptr Class: VisionDetectionBalls_t." alt="" coords="6,1383,205,1489"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="5,1168,205,1333"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="29,777,181,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="40,564,171,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="18,321,193,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="30,5,181,229"/>
+</map>

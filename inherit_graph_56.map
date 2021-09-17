@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structwb__filtered__vision__object.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="5,5,131,47"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_filtered_vision_object.html" title="Provides a C++ wrapper around wb_filtered_vision_object." alt="" coords="179,5,365,47"/>
+<area shape="rect" id="node3" href="$classgu_whiteboard_1_1_filtered_one_dim_object.html" title="A class to contain objects that have been filtered through localisation." alt="" coords="413,5,588,47"/>
+</map>

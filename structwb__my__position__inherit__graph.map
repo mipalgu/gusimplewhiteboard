@@ -1,0 +1,4 @@
+<map id="wb_my_position" name="wb_my_position">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="33,5,148,112"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_my_position.html" title="Provides a C++ wrapper around wb_my_position." alt="" coords="5,160,176,384"/>
+</map>

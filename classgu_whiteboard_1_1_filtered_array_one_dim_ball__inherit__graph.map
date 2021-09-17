@@ -1,0 +1,5 @@
+<map id="guWhiteboard::FilteredArrayOneDimBall" name="guWhiteboard::FilteredArrayOneDimBall">
+<area shape="rect" id="node1" title="Class for for the array of ball sighthings TOP or Bottom." alt="" coords="9,417,192,656"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_filtered_array_ball_sightings.html" title="Provides a C++ wrapper around wb_filtered_arrayballsightings." alt="" coords="5,131,196,369"/>
+<area shape="rect" id="node3" href="$structwb__filtered__arrayballsightings.html" title="The class of landmarks filtered regarding goal sightings." alt="" coords="5,5,196,83"/>
+</map>

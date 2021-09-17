@@ -1,0 +1,4 @@
+<map id="guWhiteboard::TeleoperationControlVR" name="guWhiteboard::TeleoperationControlVR">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_teleoperation_control_v_r." alt="" coords="8,277,193,516"/>
+<area shape="rect" id="node2" href="$structwb__teleoperation__control__v__r.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="5,5,196,229"/>
+</map>

@@ -1,0 +1,26 @@
+var structwb__hal__arm__target =
+[
+    [ "target_arm", "structwb__hal__arm__target.html#a9650857feeb35e8e11ba16eab4edfcbf", null ],
+    [ "target_arm_at_goal", "structwb__hal__arm__target.html#a2c85c9dfd0f74c8d8c8c246edb5017f5", null ],
+    [ "target_arm_stop", "structwb__hal__arm__target.html#a9c5aa1f8a5e9c76ba3334e7d7c1bc1a9", null ],
+    [ "target_elbowroll", "structwb__hal__arm__target.html#a418084c829d1785e116ffe4859988c51", null ],
+    [ "target_elbowroll_active", "structwb__hal__arm__target.html#a49a8ab0bf5877081041bb0075b2a3c58", null ],
+    [ "target_elbowrollstiffness", "structwb__hal__arm__target.html#a9b4f8ec4ea3eae94cb030f70ac049387", null ],
+    [ "target_elbowyaw", "structwb__hal__arm__target.html#afa7b058c2da4c7d3a70487bfe7b17db0", null ],
+    [ "target_elbowyaw_active", "structwb__hal__arm__target.html#ad9d6ba200d568b9677472011ecc578bc", null ],
+    [ "target_elbowyawstiffness", "structwb__hal__arm__target.html#aa2d604d6fc5be2284da727d7dbe8e183", null ],
+    [ "target_hand", "structwb__hal__arm__target.html#adc57880d305a8a8598de06c21267fae4", null ],
+    [ "target_hand_active", "structwb__hal__arm__target.html#a4c8c5feb93ac47dd4004f790b0db7085", null ],
+    [ "target_handstiffness", "structwb__hal__arm__target.html#a525403c721dfd3d326dbb1e04dcde438", null ],
+    [ "target_movement_time", "structwb__hal__arm__target.html#ae8f32d59494d50f5ada4c43bf7403d5e", null ],
+    [ "target_pliability", "structwb__hal__arm__target.html#a6eb30a4a3fb131a906a3896342fe9da0", null ],
+    [ "target_shoulderpitch", "structwb__hal__arm__target.html#a40ebbf47e33c546bdcf0f418015ca54e", null ],
+    [ "target_shoulderpitch_active", "structwb__hal__arm__target.html#a845f40522f538c15c70d5dd6f5bac2aa", null ],
+    [ "target_shoulderpitchstiffness", "structwb__hal__arm__target.html#a7e20583b313507b6949f974f03941991", null ],
+    [ "target_shoulderroll", "structwb__hal__arm__target.html#ab311d8dc671e7b5cc29546856ca5c486", null ],
+    [ "target_shoulderroll_active", "structwb__hal__arm__target.html#a6818092c14d093ddc2b55eb378f2de14", null ],
+    [ "target_shoulderrollstiffness", "structwb__hal__arm__target.html#af25dc184e4a32f712e8f921d69080b9c", null ],
+    [ "target_wrist_active", "structwb__hal__arm__target.html#a7d6b1e770f5a324112dec25f89046808", null ],
+    [ "target_wristyaw", "structwb__hal__arm__target.html#ae46cf3d2e736d30a411fae0f5b8ed2cd", null ],
+    [ "target_wristyawstiffness", "structwb__hal__arm__target.html#a36d3f731aa570976afc4be00b3321432", null ]
+];

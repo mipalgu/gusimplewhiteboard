@@ -1,0 +1,3 @@
+<map id="guWhiteboard::WalkData" name="guWhiteboard::WalkData">
+<area shape="rect" id="node1" title="Class contain information about the Nao&#39;s Walk for debug purposes Contains sensors readings while the..." alt="" coords="5,5,168,141"/>
+</map>

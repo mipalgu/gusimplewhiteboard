@@ -1,0 +1,4 @@
+<map id="wb_machine_filtered_localisation_vision" name="wb_machine_filtered_localisation_vision">
+<area shape="rect" id="node1" title="Results of the FSM (and sub machines) &quot;SMFilterVision&quot;." alt="" coords="33,5,177,112"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_machine_filtered_localisation_vision.html" title="Provides a C++ wrapper around wb_machine_filtered_localisation_vision." alt="" coords="5,160,204,443"/>
+</map>

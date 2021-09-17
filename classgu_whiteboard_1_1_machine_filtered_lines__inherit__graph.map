@@ -1,0 +1,4 @@
+<map id="guWhiteboard::MachineFilteredLines" name="guWhiteboard::MachineFilteredLines">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_machine_filtered_lines." alt="" coords="5,160,204,399"/>
+<area shape="rect" id="node2" href="$structwb__machine__filtered__lines.html" title="Results of the KalmanFilter machines for lines." alt="" coords="33,5,177,112"/>
+</map>

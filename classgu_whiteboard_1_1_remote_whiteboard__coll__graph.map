@@ -1,0 +1,7 @@
+<map id="guWhiteboard::RemoteWhiteboard" name="guWhiteboard::RemoteWhiteboard">
+<area shape="rect" id="node1" title="compatibility API for accessing the remote whiteboard" alt="" coords="5,1080,223,1231"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_whiteboard.html" title="compatibility API for accessing the whiteboard" alt="" coords="25,777,203,1031"/>
+<area shape="rect" id="node3" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="49,564,179,715"/>
+<area shape="rect" id="node4" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="27,321,201,501"/>
+<area shape="rect" id="node5" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="39,5,189,229"/>
+</map>

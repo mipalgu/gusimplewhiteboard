@@ -1,0 +1,25 @@
+var classgu_whiteboard_1_1_my_position =
+[
+    [ "MyPosition", "classgu_whiteboard_1_1_my_position.html#a0b8c55e567d7b95503219e97453ca4f1", null ],
+    [ "MyPosition", "classgu_whiteboard_1_1_my_position.html#a101684b11af52e19ebb676cb7efb13dd", null ],
+    [ "MyPosition", "classgu_whiteboard_1_1_my_position.html#ab8e816af45ba9ec057b1159f5bfd8887", null ],
+    [ "MyPosition", "classgu_whiteboard_1_1_my_position.html#aed0dad99c1308e36480b74e60e3fa13b", null ],
+    [ "description", "classgu_whiteboard_1_1_my_position.html#acd98540116e8144aeab23f290113184b", null ],
+    [ "from_string", "classgu_whiteboard_1_1_my_position.html#a78f6275f82db8414c9ebcad379fb2ee7", null ],
+    [ "heading", "classgu_whiteboard_1_1_my_position.html#a7c054bb1dd0ebb958025ed209aaf71e7", null ],
+    [ "heading", "classgu_whiteboard_1_1_my_position.html#a8d7f7b9845fea7dea2b97b077c243a63", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_my_position.html#a28ba871bcd6450ea460e7ad5ce2631c7", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_my_position.html#a4321ead5396efadd095b92857f4da510", null ],
+    [ "operator=", "classgu_whiteboard_1_1_my_position.html#a70b5062f61eca15f70b6a43b253377e2", null ],
+    [ "operator=", "classgu_whiteboard_1_1_my_position.html#aded081d2d225d84e217dec57c1e6db4b", null ],
+    [ "operator==", "classgu_whiteboard_1_1_my_position.html#a5c07cb2f613fc783d8344cfd900fa81f", null ],
+    [ "operator==", "classgu_whiteboard_1_1_my_position.html#a33470b39463d9e81ee25517aef186e4d", null ],
+    [ "set_heading", "classgu_whiteboard_1_1_my_position.html#a729b26bcdae3e405714a31027a4a2985", null ],
+    [ "set_x", "classgu_whiteboard_1_1_my_position.html#ac5073070d8bcb5da5cb6520c3e115543", null ],
+    [ "set_y", "classgu_whiteboard_1_1_my_position.html#a02a5ed50c5e89c47c3647f01d533178c", null ],
+    [ "to_string", "classgu_whiteboard_1_1_my_position.html#a146333ef437019eecf8c14787eb55c4b", null ],
+    [ "x", "classgu_whiteboard_1_1_my_position.html#aca44c73c23c8936961a859fb63bf643f", null ],
+    [ "x", "classgu_whiteboard_1_1_my_position.html#a983d6840c7c15abc2f51409d56057a13", null ],
+    [ "y", "classgu_whiteboard_1_1_my_position.html#a60e247f5338fbce9bc086e427be53e31", null ],
+    [ "y", "classgu_whiteboard_1_1_my_position.html#a7f165631f9cef984270d3ff8ff7cd54d", null ]
+];

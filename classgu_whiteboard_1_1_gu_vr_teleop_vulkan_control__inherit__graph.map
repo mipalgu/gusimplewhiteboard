@@ -1,0 +1,4 @@
+<map id="guWhiteboard::GuVrTeleopVulkanControl" name="guWhiteboard::GuVrTeleopVulkanControl">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_gu_vr_teleop_vulkan_control." alt="" coords="5,160,196,399"/>
+<area shape="rect" id="node2" href="$structwb__gu__vr__teleop__vulkan__control.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="18,5,183,112"/>
+</map>

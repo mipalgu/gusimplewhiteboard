@@ -1,0 +1,5 @@
+<map id="guWhiteboard::MachineFilteredLocalisationVision" name="guWhiteboard::MachineFilteredLocalisationVision">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_machine_filtered_localisation_vision." alt="" coords="5,316,204,599"/>
+<area shape="rect" id="node2" href="$structwb__machine__filtered__localisation__vision.html" title="Results of the FSM (and sub machines) &quot;SMFilterVision&quot;." alt="" coords="33,175,177,267"/>
+<area shape="rect" id="node3" href="$structwb__landmark__sighting.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="29,5,180,112"/>
+</map>

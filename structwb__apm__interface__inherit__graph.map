@@ -1,0 +1,4 @@
+<map id="wb_apm_interface" name="wb_apm_interface">
+<area shape="rect" id="node1" title="Interface for talking with an APM." alt="" coords="29,5,176,97"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_a_p_m___interface.html" title="Class for interacting with and reading the values of APM sensors and motors." alt="" coords="5,145,200,296"/>
+</map>

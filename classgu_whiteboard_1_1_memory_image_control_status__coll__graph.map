@@ -1,0 +1,4 @@
+<map id="guWhiteboard::MemoryImageControlStatus" name="guWhiteboard::MemoryImageControlStatus">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_memory_image_control_status." alt="" coords="5,175,208,413"/>
+<area shape="rect" id="node2" href="$structwb__memory__image__control__status.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="17,5,197,127"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="wb_vision_lines" name="wb_vision_lines">
+<area shape="rect" id="node1" title="Class use to represent lines detected by vision for a single camera and posted to the whiteboard." alt="" coords="31,469,146,591"/>
+<area shape="rect" id="node2" href="$structwb__vision__line.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,329,142,407"/>
+<area shape="rect" id="node3" href="$structwb__pixel__coordinate__line.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="5,175,172,252"/>
+<area shape="rect" id="node4" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="19,5,158,97"/>
+</map>

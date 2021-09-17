@@ -1,0 +1,4 @@
+<map id="guWhiteboard::VisionDetectionLineArray" name="guWhiteboard::VisionDetectionLineArray">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_detection_line_array." alt="" coords="5,160,204,399"/>
+<area shape="rect" id="node2" href="$structwb__vision__detection__line__array.html" title="Results for the Line Ray Tracer (guvision)." alt="" coords="35,5,175,112"/>
+</map>

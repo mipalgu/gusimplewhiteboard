@@ -1,0 +1,4 @@
+<map id="wb_machine_filtered_lines" name="wb_machine_filtered_lines">
+<area shape="rect" id="node1" title="Results of the KalmanFilter machines for lines." alt="" coords="33,5,177,112"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_machine_filtered_lines.html" title="Provides a C++ wrapper around wb_machine_filtered_lines." alt="" coords="5,160,204,399"/>
+</map>

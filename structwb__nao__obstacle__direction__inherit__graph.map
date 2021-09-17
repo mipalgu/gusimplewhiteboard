@@ -1,0 +1,4 @@
+<map id="wb_nao_obstacle_direction" name="wb_nao_obstacle_direction">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="7,5,186,112"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_nao_obstacle_direction.html" title="Provides a C++ wrapper around wb_nao_obstacle_direction." alt="" coords="5,160,188,413"/>
+</map>

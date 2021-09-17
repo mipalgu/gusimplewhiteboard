@@ -1,0 +1,4 @@
+<map id="wb_vision_control_status" name="wb_vision_control_status">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="13,5,182,229"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_vision_control_status.html" title="Provides a C++ wrapper around wb_vision_control_status." alt="" coords="5,277,189,516"/>
+</map>

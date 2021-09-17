@@ -1,0 +1,4 @@
+<map id="guWhiteboard::TeleoperationStatus" name="guWhiteboard::TeleoperationStatus">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_teleoperation_status." alt="" coords="5,131,191,369"/>
+<area shape="rect" id="node2" href="$structwb__teleoperation__status.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="17,5,179,83"/>
+</map>

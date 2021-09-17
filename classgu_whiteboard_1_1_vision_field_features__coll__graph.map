@@ -1,0 +1,6 @@
+<map id="guWhiteboard::VisionFieldFeatures" name="guWhiteboard::VisionFieldFeatures">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_field_features." alt="" coords="5,515,176,753"/>
+<area shape="rect" id="node2" href="$structwb__vision__field__features.html" title="Posting by Vision of the field corners, T&#45;Intersections and crosses that have been seen." alt="" coords="9,329,173,465"/>
+<area shape="rect" id="node3" href="$structwb__vision__field__feature.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="12,160,169,237"/>
+<area shape="rect" id="node4" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="21,5,160,97"/>
+</map>

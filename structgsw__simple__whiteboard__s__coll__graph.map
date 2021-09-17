@@ -1,0 +1,4 @@
+<map id="gsw_simple_whiteboard_s" name="gsw_simple_whiteboard_s">
+<area shape="rect" id="node1" title="the actual whiteboard in shared mem" alt="" coords="5,321,180,501"/>
+<area shape="rect" id="node2" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="17,5,168,229"/>
+</map>

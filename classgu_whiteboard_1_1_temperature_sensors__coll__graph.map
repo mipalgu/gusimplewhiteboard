@@ -1,0 +1,4 @@
+<map id="guWhiteboard::TemperatureSensors" name="guWhiteboard::TemperatureSensors">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_temperature_sensors." alt="" coords="5,204,185,443"/>
+<area shape="rect" id="node2" href="$structwb__temperature__sensors.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="11,5,179,156"/>
+</map>

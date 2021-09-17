@@ -1,0 +1,8 @@
+<map id="guWhiteboard::SwitchSubsumptionTrafficLights_t" name="guWhiteboard::SwitchSubsumptionTrafficLights_t">
+<area shape="rect" id="node1" title="WB Ptr Class: SwitchSubsumptionTrafficLights_t." alt="" coords="7,1383,229,1504"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="5,1168,231,1333"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="42,777,194,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="53,564,183,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="31,321,205,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="43,5,193,229"/>
+</map>

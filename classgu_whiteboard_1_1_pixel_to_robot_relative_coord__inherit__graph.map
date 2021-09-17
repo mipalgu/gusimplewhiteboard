@@ -1,0 +1,4 @@
+<map id="guWhiteboard::PixelToRobotRelativeCoord" name="guWhiteboard::PixelToRobotRelativeCoord">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_pixel_to_robot_relative_coord." alt="" coords="5,145,204,384"/>
+<area shape="rect" id="node2" href="$structwb__pixel__to__robot__relative__coord.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="17,5,192,97"/>
+</map>

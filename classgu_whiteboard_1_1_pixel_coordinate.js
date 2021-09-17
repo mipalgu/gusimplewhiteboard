@@ -1,0 +1,25 @@
+var classgu_whiteboard_1_1_pixel_coordinate =
+[
+    [ "PixelCoordinate", "classgu_whiteboard_1_1_pixel_coordinate.html#abdf432f8ca6655c124f7da41bfeaaa95", null ],
+    [ "PixelCoordinate", "classgu_whiteboard_1_1_pixel_coordinate.html#ac26e77fe878f46c23cb00898df3dd952", null ],
+    [ "PixelCoordinate", "classgu_whiteboard_1_1_pixel_coordinate.html#a8101b7797fc1e7325dde06a58e37c341", null ],
+    [ "PixelCoordinate", "classgu_whiteboard_1_1_pixel_coordinate.html#a8c43777cc264673f4e700bc93ca9dd6a", null ],
+    [ "PixelCoordinate", "classgu_whiteboard_1_1_pixel_coordinate.html#aae66967bc4de008cdf0025751e5e651e", null ],
+    [ "PixelCoordinate", "classgu_whiteboard_1_1_pixel_coordinate.html#adfd42dafe825ed28b67f4355b744630c", null ],
+    [ "description", "classgu_whiteboard_1_1_pixel_coordinate.html#a228178c8958962aa13ea8aa1b31a90b7", null ],
+    [ "from_string", "classgu_whiteboard_1_1_pixel_coordinate.html#a85c15ba8f6eefb88b6b2d951e305d0a2", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_pixel_coordinate.html#a87e8167f70249e47dd16d2365c40cbb9", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_pixel_coordinate.html#a77d73272cb3ffcf63e0d76d72d596f77", null ],
+    [ "operator=", "classgu_whiteboard_1_1_pixel_coordinate.html#a4d31afe9cba3f94ea881c4a665b381ce", null ],
+    [ "operator=", "classgu_whiteboard_1_1_pixel_coordinate.html#a033b9380f9d827ff4015ae3ee71fd9d4", null ],
+    [ "operator==", "classgu_whiteboard_1_1_pixel_coordinate.html#acbd144e8ff69df7521be9c5891c3ca46", null ],
+    [ "operator==", "classgu_whiteboard_1_1_pixel_coordinate.html#a334061b301f26ee3f0ad6f916ed92d61", null ],
+    [ "pixelCoordinate", "classgu_whiteboard_1_1_pixel_coordinate.html#aecf8fe2de8620bcfcabd73225ebde7dc", null ],
+    [ "set_x", "classgu_whiteboard_1_1_pixel_coordinate.html#af72231c0b21c8abcb671408c8d13d74e", null ],
+    [ "set_y", "classgu_whiteboard_1_1_pixel_coordinate.html#a9f5a1f52bc5511c241bce4e3f908fea6", null ],
+    [ "to_string", "classgu_whiteboard_1_1_pixel_coordinate.html#aac915001ceaeda5b82f9f2f0842f65a6", null ],
+    [ "x", "classgu_whiteboard_1_1_pixel_coordinate.html#a96e1308905dd93ca1db06fba3b5aa449", null ],
+    [ "x", "classgu_whiteboard_1_1_pixel_coordinate.html#a4c9db92c39dd6b1b05d602cd87c925cc", null ],
+    [ "y", "classgu_whiteboard_1_1_pixel_coordinate.html#aa83a0bbb4b7d4e53b1aa3f47abf72489", null ],
+    [ "y", "classgu_whiteboard_1_1_pixel_coordinate.html#a03ab52c360e63eda2e7cba742bb5d418", null ]
+];

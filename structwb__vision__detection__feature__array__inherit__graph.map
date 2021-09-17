@@ -1,0 +1,4 @@
+<map id="wb_vision_detection_feature_array" name="wb_vision_detection_feature_array">
+<area shape="rect" id="node1" title="Results for the Feature Detector (guvision)." alt="" coords="39,5,179,112"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_vision_detection_feature_array.html" title="Provides a C++ wrapper around wb_vision_detection_feature_array." alt="" coords="5,160,212,399"/>
+</map>

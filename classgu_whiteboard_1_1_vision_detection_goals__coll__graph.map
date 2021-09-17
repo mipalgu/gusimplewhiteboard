@@ -1,0 +1,7 @@
+<map id="guWhiteboard::VisionDetectionGoals" name="guWhiteboard::VisionDetectionGoals">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_detection_goals." alt="" coords="5,699,204,937"/>
+<area shape="rect" id="node2" href="$structwb__vision__detection__goals.html" title="Array of fieldGoals, one instance reported by each camera." alt="" coords="35,528,175,649"/>
+<area shape="rect" id="node3" href="$structwb__vision__detection__goal.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="19,388,190,465"/>
+<area shape="rect" id="node4" href="$structwb__vision__detection__goal__post.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,204,175,311"/>
+<area shape="rect" id="node5" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,5,174,97"/>
+</map>

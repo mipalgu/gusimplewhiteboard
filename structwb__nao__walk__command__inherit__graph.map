@@ -1,0 +1,4 @@
+<map id="wb_nao_walk_command" name="wb_nao_walk_command">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="32,5,197,273"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_nao_walk_command.html" title="Provides a C++ wrapper around wb_nao_walk_command." alt="" coords="5,321,224,633"/>
+</map>

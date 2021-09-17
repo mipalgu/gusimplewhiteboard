@@ -1,0 +1,4 @@
+<map id="wb_temperature_sensors" name="wb_temperature_sensors">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="11,5,179,156"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_temperature_sensors.html" title="Provides a C++ wrapper around wb_temperature_sensors." alt="" coords="5,204,185,443"/>
+</map>

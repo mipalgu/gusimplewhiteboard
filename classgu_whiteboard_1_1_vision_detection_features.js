@@ -1,0 +1,25 @@
+var classgu_whiteboard_1_1_vision_detection_features =
+[
+    [ "VisionDetectionFeatures", "classgu_whiteboard_1_1_vision_detection_features.html#ae7f8832287e2cea55e8727f0f694e688", null ],
+    [ "VisionDetectionFeatures", "classgu_whiteboard_1_1_vision_detection_features.html#a41b0739b127b97988d93ab6af568ce26", null ],
+    [ "VisionDetectionFeatures", "classgu_whiteboard_1_1_vision_detection_features.html#ab429606302b390feeb58b5838e4ee984", null ],
+    [ "VisionDetectionFeatures", "classgu_whiteboard_1_1_vision_detection_features.html#a8bd9705468a878c30af6230115ba23e5", null ],
+    [ "description", "classgu_whiteboard_1_1_vision_detection_features.html#a214220da9c7d0b47fb89d6f61f476afc", null ],
+    [ "features", "classgu_whiteboard_1_1_vision_detection_features.html#a25e2b60a8c256ecaea18d53a2e94cd39", null ],
+    [ "features", "classgu_whiteboard_1_1_vision_detection_features.html#a7fd911f95eac901da01b4798a19b33f0", null ],
+    [ "features", "classgu_whiteboard_1_1_vision_detection_features.html#af200ede583668aa805ac53b8323e10a3", null ],
+    [ "features_size", "classgu_whiteboard_1_1_vision_detection_features.html#a6c21e9905f68d0f0f920f79299089f17", null ],
+    [ "frameNumber", "classgu_whiteboard_1_1_vision_detection_features.html#acf82459c5140133eb094c447dc845605", null ],
+    [ "frameNumber", "classgu_whiteboard_1_1_vision_detection_features.html#aa91a7918ca536ca06f5cd4cb6da9f164", null ],
+    [ "from_string", "classgu_whiteboard_1_1_vision_detection_features.html#a05ed47bb249695a839e4219c7c57480b", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_vision_detection_features.html#a35caf84f9078a472268ee290fed4f05c", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_vision_detection_features.html#aa48a9e2cd7b4c849a70c453958303fb8", null ],
+    [ "operator=", "classgu_whiteboard_1_1_vision_detection_features.html#a02974201caab506ae7b5d942b4c5cbbb", null ],
+    [ "operator=", "classgu_whiteboard_1_1_vision_detection_features.html#af2b9012fb36fe00f1d9aeef1fceff72d", null ],
+    [ "operator==", "classgu_whiteboard_1_1_vision_detection_features.html#a3ea8a6f7c20fcc1ca93c7fb5a4c88c7e", null ],
+    [ "operator==", "classgu_whiteboard_1_1_vision_detection_features.html#a00b6895cf99f7d37c317a1fe375727da", null ],
+    [ "set_features", "classgu_whiteboard_1_1_vision_detection_features.html#a065ad59a26c9737c8df86fcc91b4d402", null ],
+    [ "set_features", "classgu_whiteboard_1_1_vision_detection_features.html#a790b25bea618daa49a6746529963c45c", null ],
+    [ "set_frameNumber", "classgu_whiteboard_1_1_vision_detection_features.html#a622c80726e4dd0fea3010f62e871fccd", null ],
+    [ "to_string", "classgu_whiteboard_1_1_vision_detection_features.html#abae937d199e4e40b1d0aae5bf6dfb4f4", null ]
+];

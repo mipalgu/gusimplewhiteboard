@@ -1,0 +1,8 @@
+<map id="guWhiteboard::VisionFieldFeatures_t" name="guWhiteboard::VisionFieldFeatures_t">
+<area shape="rect" id="node1" title="WB Ptr Class: VisionFieldFeatures_t." alt="" coords="37,1368,208,1475"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="5,1168,240,1319"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="47,777,199,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="57,564,188,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="35,321,210,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="47,5,198,229"/>
+</map>

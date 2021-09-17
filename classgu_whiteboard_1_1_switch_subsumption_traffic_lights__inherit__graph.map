@@ -1,0 +1,4 @@
+<map id="guWhiteboard::SwitchSubsumptionTrafficLights" name="guWhiteboard::SwitchSubsumptionTrafficLights">
+<area shape="rect" id="node1" title="Subsumption SWITCH that select highest priority command." alt="" coords="5,145,228,311"/>
+<area shape="rect" id="node2" href="$structwb__switch__subsumption__traffic__lights.html" title=" " alt="" coords="34,5,199,97"/>
+</map>

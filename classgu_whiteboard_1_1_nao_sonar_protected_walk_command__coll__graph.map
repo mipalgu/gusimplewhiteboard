@@ -1,0 +1,4 @@
+<map id="guWhiteboard::NaoSonarProtectedWalkCommand" name="guWhiteboard::NaoSonarProtectedWalkCommand">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_nao_sonar_protected_walk_command." alt="" coords="5,351,248,677"/>
+<area shape="rect" id="node2" href="$structwb__nao__sonar__protected__walk__command.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="43,5,210,303"/>
+</map>

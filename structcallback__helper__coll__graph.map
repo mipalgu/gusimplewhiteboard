@@ -1,0 +1,9 @@
+<map id="callback_helper" name="callback_helper">
+<area shape="rect" id="node1" title="An internal stuct for passing callback information to dispatch queues." alt="" coords="228,1123,373,1273"/>
+<area shape="rect" id="node2" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="5,321,180,501"/>
+<area shape="rect" id="node6" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="121,579,251,729"/>
+<area shape="rect" id="node3" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="17,5,168,229"/>
+<area shape="rect" id="node4" href="$class_w_b_functor_base.html" title="Base class for WBFunctor." alt="" coords="368,564,537,744"/>
+<area shape="rect" id="node7" href="$structgu_whiteboard_1_1_whiteboard_1_1callback__descr.html" title=" " alt="" coords="376,880,548,987"/>
+<area shape="rect" id="node5" href="$classgu_whiteboard_1_1_whiteboard.html" title="compatibility API for accessing the whiteboard" alt="" coords="109,807,287,1060"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="wb_machine_filtered_vision" name="wb_machine_filtered_vision">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,5,175,185"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_machine_filtered_vision.html" title="Provides a C++ wrapper around wb_machine_filtered_vision." alt="" coords="5,233,204,472"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="wb_hal_armtarget" name="wb_hal_armtarget">
+<area shape="rect" id="node1" title="HalArmTarget c struct." alt="" coords="20,5,179,332"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_hal_arm_target.html" title="Class for moving a SINGLE robotic arm with up to 6 degrees of freedom using local coords of each join..." alt="" coords="5,380,193,604"/>
+</map>

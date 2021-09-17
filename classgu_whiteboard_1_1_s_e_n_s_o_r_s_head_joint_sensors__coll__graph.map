@@ -1,0 +1,4 @@
+<map id="guWhiteboard::SENSORSHeadJointSensors" name="guWhiteboard::SENSORSHeadJointSensors">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_sensors_headjointsensors." alt="" coords="5,145,217,384"/>
+<area shape="rect" id="node2" href="$structwb__sensors__headjointsensors.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="13,5,210,97"/>
+</map>

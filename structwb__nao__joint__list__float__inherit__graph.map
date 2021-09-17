@@ -1,0 +1,4 @@
+<map id="wb_nao_joint_list_float" name="wb_nao_joint_list_float">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="19,5,173,229"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_nao_joint_list_float.html" title="Provides a C++ wrapper around wb_nao_joint_list_float." alt="" coords="5,277,187,516"/>
+</map>

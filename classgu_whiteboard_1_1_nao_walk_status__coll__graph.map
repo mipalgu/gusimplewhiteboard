@@ -1,0 +1,5 @@
+<map id="guWhiteboard::NaoWalkStatus" name="guWhiteboard::NaoWalkStatus">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_nao_walk_status." alt="" coords="5,316,204,540"/>
+<area shape="rect" id="node2" href="$structwb__nao__walk__status.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="22,175,187,267"/>
+<area shape="rect" id="node3" href="$structwb__odometry.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="55,5,154,112"/>
+</map>

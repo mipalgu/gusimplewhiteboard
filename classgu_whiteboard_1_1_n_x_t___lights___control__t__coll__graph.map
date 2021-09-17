@@ -1,0 +1,8 @@
+<map id="guWhiteboard::NXT_Lights_Control_t" name="guWhiteboard::NXT_Lights_Control_t">
+<area shape="rect" id="node1" title="WB Ptr Class: NXT_Lights_Control_t." alt="" coords="6,1383,183,1489"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="5,1168,184,1333"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="19,777,171,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="29,564,160,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="7,321,182,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="19,5,170,229"/>
+</map>

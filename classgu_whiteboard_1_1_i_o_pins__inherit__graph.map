@@ -1,0 +1,4 @@
+<map id="guWhiteboard::IOPins" name="guWhiteboard::IOPins">
+<area shape="rect" id="node1" title="Class for controlling and getting the status of IO pins." alt="" coords="14,131,161,325"/>
+<area shape="rect" id="node2" href="$structwb__io__pins.html" title="Simulated I/O pins." alt="" coords="5,5,169,83"/>
+</map>

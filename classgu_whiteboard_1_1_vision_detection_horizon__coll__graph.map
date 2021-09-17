@@ -1,0 +1,5 @@
+<map id="guWhiteboard::VisionDetectionHorizon" name="guWhiteboard::VisionDetectionHorizon">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_detection_horizon." alt="" coords="5,331,204,569"/>
+<area shape="rect" id="node2" href="$structwb__vision__detection__horizon.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,189,175,281"/>
+<area shape="rect" id="node3" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,5,174,97"/>
+</map>

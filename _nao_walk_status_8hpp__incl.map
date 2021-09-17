@@ -1,0 +1,13 @@
+<map id="typeClassDefs/NaoWalkStatus.hpp" name="typeClassDefs/NaoWalkStatus.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="160,5,385,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,229,65,256"/>
+<area shape="rect" id="node3" title=" " alt="" coords="90,229,154,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="279,229,349,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="417,304,488,331"/>
+<area shape="rect" id="node6" href="$wb__nao__walk__status_8h.html" title=" " alt="" coords="543,155,698,181"/>
+<area shape="rect" id="node10" href="$_odometry_8h.html" title=" " alt="" coords="185,80,273,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="563,304,627,331"/>
+<area shape="rect" id="node8" href="$wb__odometry_8h.html" title=" " alt="" coords="373,229,482,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="263,304,319,331"/>
+<area shape="rect" id="node11" href="$_odometry_8hpp.html" title=" " alt="" coords="173,155,276,181"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="guWhiteboard::APM_Interface" name="guWhiteboard::APM_Interface">
+<area shape="rect" id="node1" title="Class for interacting with and reading the values of APM sensors and motors." alt="" coords="5,145,200,296"/>
+<area shape="rect" id="node2" href="$structwb__apm__interface.html" title="Interface for talking with an APM." alt="" coords="29,5,176,97"/>
+</map>

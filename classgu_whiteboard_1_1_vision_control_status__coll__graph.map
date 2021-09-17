@@ -1,0 +1,4 @@
+<map id="guWhiteboard::VisionControlStatus" name="guWhiteboard::VisionControlStatus">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_control_status." alt="" coords="5,277,189,516"/>
+<area shape="rect" id="node2" href="$structwb__vision__control__status.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="13,5,182,229"/>
+</map>

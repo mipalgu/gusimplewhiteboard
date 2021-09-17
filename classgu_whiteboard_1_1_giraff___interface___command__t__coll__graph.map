@@ -1,0 +1,8 @@
+<map id="guWhiteboard::Giraff_Interface_Command_t" name="guWhiteboard::Giraff_Interface_Command_t">
+<area shape="rect" id="node1" title="WB Ptr Class: Giraff_Interface_Command_t." alt="" coords="5,1383,212,1489"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="24,1168,193,1333"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="33,777,185,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="43,564,174,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="21,321,196,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="33,5,184,229"/>
+</map>

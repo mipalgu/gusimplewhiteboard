@@ -1,0 +1,19 @@
+<map id="typeClassDefs/wb_odometry.h" name="typeClassDefs/wb_odometry.h">
+<area shape="rect" id="node1" title=" " alt="" coords="511,5,709,32"/>
+<area shape="rect" id="node2" href="$_odometry_8hpp.html" title=" " alt="" coords="305,87,496,114"/>
+<area shape="rect" id="node12" href="$wb__nao__walk__status_8h.html" title=" " alt="" coords="533,80,687,121"/>
+<area shape="rect" id="node17" href="$wb__odometry_8c.html" title=" " alt="" coords="711,87,909,114"/>
+<area shape="rect" id="node3" href="$_odometry_8h.html" title=" " alt="" coords="290,177,466,203"/>
+<area shape="rect" id="node4" href="$_nao_walk_status_8hpp.html" title=" " alt="" coords="275,259,500,285"/>
+<area shape="rect" id="node5" href="$guwhiteboardposter_8h.html" title=" " alt="" coords="213,333,359,360"/>
+<area shape="rect" id="node11" href="$_nao_walk_status_8h.html" title=" " alt="" coords="383,333,594,360"/>
+<area shape="rect" id="node6" href="$_simple_whiteboard_test_8h.html" title=" " alt="" coords="20,408,187,449"/>
+<area shape="rect" id="node8" href="$guwhiteboardgetter_8h.html" title=" " alt="" coords="215,415,357,442"/>
+<area shape="rect" id="node10" href="$guwhiteboardposter_8cpp.html" title=" " alt="" coords="381,415,540,442"/>
+<area shape="rect" id="node7" href="$_simple_whiteboard_test_8mm.html" title=" " alt="" coords="5,497,188,539"/>
+<area shape="rect" id="node9" href="$guwhiteboardgetter_8cpp.html" title=" " alt="" coords="212,505,368,531"/>
+<area shape="rect" id="node13" href="$guwhiteboard__c__types_8h.html" title=" " alt="" coords="541,177,703,203"/>
+<area shape="rect" id="node16" href="$wb__nao__walk__status_8c.html" title=" " alt="" coords="727,169,882,211"/>
+<area shape="rect" id="node14" href="$guwhiteboarddeserialiser_8c.html" title=" " alt="" coords="529,259,704,285"/>
+<area shape="rect" id="node15" href="$guwhiteboardserialiser_8c.html" title=" " alt="" coords="728,259,889,285"/>
+</map>

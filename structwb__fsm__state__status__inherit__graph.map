@@ -1,0 +1,4 @@
+<map id="wb_fsm_state_status" name="wb_fsm_state_status">
+<area shape="rect" id="node1" title="Idempotent Message publicising the state &#45;about to be executed&#45; (0&#45;254) of up&#45;to the first 128 machin..." alt="" coords="9,5,173,83"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_f_s_m_state.html" title="Class for transmitting machine names over the whiteboard." alt="" coords="5,131,176,325"/>
+</map>

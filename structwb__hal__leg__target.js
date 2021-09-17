@@ -1,0 +1,26 @@
+var structwb__hal__leg__target =
+[
+    [ "target_anklepitch", "structwb__hal__leg__target.html#a9e50fd040d7197a8cb32ca944ba5689a", null ],
+    [ "target_anklepitch_active", "structwb__hal__leg__target.html#a22631983924fbde191b173513d88acfc", null ],
+    [ "target_anklepitchstiffness", "structwb__hal__leg__target.html#a7080e0767d98635ef15ff78d427e17ed", null ],
+    [ "target_ankleroll", "structwb__hal__leg__target.html#aa140da0dd2d70e9db3b268c358b17abc", null ],
+    [ "target_ankleroll_active", "structwb__hal__leg__target.html#a756e6cf9aa929b1c5ffca8a46fe8040c", null ],
+    [ "target_anklerollstiffness", "structwb__hal__leg__target.html#a253074b30ff64c612d0a47d48ae20b94", null ],
+    [ "target_hippitch", "structwb__hal__leg__target.html#aed77266befe3a71ab9e24db54f6c80b3", null ],
+    [ "target_hippitch_active", "structwb__hal__leg__target.html#ac30b0a6cac077cc896c493a94d4910d4", null ],
+    [ "target_hippitchstiffness", "structwb__hal__leg__target.html#ad0c86d8f9e98a933b8725323d7a25b26", null ],
+    [ "target_hiproll", "structwb__hal__leg__target.html#ad9b99a7e1ab7c36b1a430ad2000c9def", null ],
+    [ "target_hiproll_active", "structwb__hal__leg__target.html#a832f752e483d08d3099c1a3161c080fe", null ],
+    [ "target_hiprollstiffness", "structwb__hal__leg__target.html#a1f57f394c06b4a3aa5d46b5e7003ae86", null ],
+    [ "target_hipyawpitch", "structwb__hal__leg__target.html#a41c2fbec5564fe3fd45bce479420a32e", null ],
+    [ "target_hipyawpitch_active", "structwb__hal__leg__target.html#a8ae05e88ee9c7ae8ea101d88a6880d66", null ],
+    [ "target_hipyawpitchstiffness", "structwb__hal__leg__target.html#a1aa04c227defb0bbf8272113fcce980e", null ],
+    [ "target_kneepitch", "structwb__hal__leg__target.html#a8ce8a3c885935e13b0dbe8a5628924f6", null ],
+    [ "target_kneepitch_active", "structwb__hal__leg__target.html#aa8194308597c0b5b35ba09f33c3e378a", null ],
+    [ "target_kneepitchstiffness", "structwb__hal__leg__target.html#a1f9178b0258ccb3587cee1bf9fc7997d", null ],
+    [ "target_leg", "structwb__hal__leg__target.html#a5c8598acd3d923eecf7e6147da7106e6", null ],
+    [ "target_leg_at_goal", "structwb__hal__leg__target.html#ae91bc2d00ed775dd234caf0fdde29484", null ],
+    [ "target_leg_stop", "structwb__hal__leg__target.html#aabebad0fca4b665f6de6e4de317e5497", null ],
+    [ "target_movement_time", "structwb__hal__leg__target.html#a8d887d7c3d07b14d356654fc7db43c43", null ],
+    [ "target_pliability", "structwb__hal__leg__target.html#a071a186871ee4a98f957fb1470020946", null ]
+];

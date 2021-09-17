@@ -1,0 +1,5 @@
+<map id="guWhiteboard::ParticlePosition" name="guWhiteboard::ParticlePosition">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_particle_position." alt="" coords="5,301,204,525"/>
+<area shape="rect" id="node2" href="$structwb__particle__position.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,160,175,252"/>
+<area shape="rect" id="node3" href="$structwb__point2d.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="61,5,149,97"/>
+</map>

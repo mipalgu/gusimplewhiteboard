@@ -1,0 +1,5 @@
+<map id="guWhiteboard::PixelCoordinateLine" name="guWhiteboard::PixelCoordinateLine">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_pixel_coordinate_line." alt="" coords="5,301,228,525"/>
+<area shape="rect" id="node2" href="$structwb__pixel__coordinate__line.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="33,175,200,252"/>
+<area shape="rect" id="node3" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="47,5,186,97"/>
+</map>

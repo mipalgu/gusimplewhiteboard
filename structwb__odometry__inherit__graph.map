@@ -1,0 +1,4 @@
+<map id="wb_odometry" name="wb_odometry">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="37,5,136,112"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_odometry.html" title="Provides a C++ wrapper around wb_odometry." alt="" coords="5,160,168,384"/>
+</map>

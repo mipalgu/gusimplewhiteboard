@@ -1,0 +1,4 @@
+<map id="guWhiteboard::FFTStatus" name="guWhiteboard::FFTStatus">
+<area shape="rect" id="node1" title="Container for RMS levels and dominant frequencies." alt="" coords="5,219,175,428"/>
+<area shape="rect" id="node2" href="$structfft__dominant__frequency.html" title="Main FFT Analysis Structure This structure contains all the components of the FFT analysis,..." alt="" coords="8,5,172,171"/>
+</map>

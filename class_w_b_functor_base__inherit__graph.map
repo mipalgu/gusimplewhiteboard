@@ -1,0 +1,142 @@
+<map id="WBFunctorBase" name="WBFunctorBase">
+<area shape="rect" id="node1" title="Base class for WBFunctor." alt="" coords="8130,5,8299,185"/>
+<area shape="rect" id="node2" href="$class_w_b_functor.html" title=" " alt="" coords="53,233,224,531"/>
+<area shape="rect" id="node4" href="$class_w_b_functor.html" title=" " alt="" coords="265,233,434,531"/>
+<area shape="rect" id="node6" href="$class_w_b_functor.html" title=" " alt="" coords="491,233,693,531"/>
+<area shape="rect" id="node8" href="$class_w_b_functor.html" title=" " alt="" coords="750,233,919,531"/>
+<area shape="rect" id="node10" href="$class_w_b_functor.html" title=" " alt="" coords="977,233,1178,531"/>
+<area shape="rect" id="node12" href="$class_w_b_functor.html" title=" " alt="" coords="1235,233,1405,531"/>
+<area shape="rect" id="node14" href="$class_w_b_functor.html" title=" " alt="" coords="1462,233,1663,531"/>
+<area shape="rect" id="node16" href="$class_w_b_functor.html" title=" " alt="" coords="1721,233,1890,531"/>
+<area shape="rect" id="node18" href="$class_w_b_functor.html" title=" " alt="" coords="1947,233,2149,531"/>
+<area shape="rect" id="node20" href="$class_w_b_functor.html" title=" " alt="" coords="2206,233,2375,531"/>
+<area shape="rect" id="node22" href="$class_w_b_functor.html" title=" " alt="" coords="2433,233,2634,531"/>
+<area shape="rect" id="node24" href="$class_w_b_functor.html" title=" " alt="" coords="2691,233,2861,531"/>
+<area shape="rect" id="node26" href="$class_w_b_functor.html" title=" " alt="" coords="2918,233,3119,531"/>
+<area shape="rect" id="node28" href="$class_w_b_functor.html" title=" " alt="" coords="3177,233,3346,531"/>
+<area shape="rect" id="node30" href="$class_w_b_functor.html" title=" " alt="" coords="3403,233,3605,531"/>
+<area shape="rect" id="node32" href="$class_w_b_functor.html" title=" " alt="" coords="3662,233,3831,531"/>
+<area shape="rect" id="node34" href="$class_w_b_functor.html" title=" " alt="" coords="3889,233,4090,531"/>
+<area shape="rect" id="node36" href="$class_w_b_functor.html" title=" " alt="" coords="4141,233,4310,531"/>
+<area shape="rect" id="node38" href="$class_w_b_functor.html" title=" " alt="" coords="4347,233,4535,531"/>
+<area shape="rect" id="node40" href="$class_w_b_functor.html" title=" " alt="" coords="4579,233,4767,531"/>
+<area shape="rect" id="node42" href="$class_w_b_functor.html" title=" " alt="" coords="4827,233,4997,531"/>
+<area shape="rect" id="node44" href="$class_w_b_functor.html" title=" " alt="" coords="5042,233,5211,531"/>
+<area shape="rect" id="node46" href="$class_w_b_functor.html" title=" " alt="" coords="5253,241,5480,523"/>
+<area shape="rect" id="node48" href="$class_w_b_functor.html" title=" " alt="" coords="5518,233,5725,531"/>
+<area shape="rect" id="node50" href="$class_w_b_functor.html" title=" " alt="" coords="5756,241,5983,523"/>
+<area shape="rect" id="node52" href="$class_w_b_functor.html" title=" " alt="" coords="6010,233,6179,531"/>
+<area shape="rect" id="node54" href="$class_w_b_functor.html" title=" " alt="" coords="6205,233,6374,531"/>
+<area shape="rect" id="node56" href="$class_w_b_functor.html" title=" " alt="" coords="6399,233,6569,531"/>
+<area shape="rect" id="node58" href="$class_w_b_functor.html" title=" " alt="" coords="6593,233,6772,531"/>
+<area shape="rect" id="node60" href="$class_w_b_functor.html" title=" " alt="" coords="6823,233,7028,531"/>
+<area shape="rect" id="node62" href="$class_w_b_functor.html" title=" " alt="" coords="7082,233,7283,531"/>
+<area shape="rect" id="node64" href="$class_w_b_functor.html" title=" " alt="" coords="7343,233,7529,531"/>
+<area shape="rect" id="node66" href="$class_w_b_functor.html" title=" " alt="" coords="7569,233,7751,531"/>
+<area shape="rect" id="node68" href="$class_w_b_functor.html" title=" " alt="" coords="7775,233,7955,531"/>
+<area shape="rect" id="node70" href="$class_w_b_functor.html" title=" " alt="" coords="7979,241,8202,523"/>
+<area shape="rect" id="node72" href="$class_w_b_functor.html" title=" " alt="" coords="8226,241,8454,523"/>
+<area shape="rect" id="node74" href="$class_w_b_functor.html" title=" " alt="" coords="8478,233,8647,531"/>
+<area shape="rect" id="node76" href="$class_w_b_functor.html" title=" " alt="" coords="8671,233,8841,531"/>
+<area shape="rect" id="node78" href="$class_w_b_functor.html" title=" " alt="" coords="8865,233,9034,531"/>
+<area shape="rect" id="node80" href="$class_w_b_functor.html" title=" " alt="" coords="9058,233,9238,531"/>
+<area shape="rect" id="node82" href="$class_w_b_functor.html" title=" " alt="" coords="9262,233,9431,531"/>
+<area shape="rect" id="node84" href="$class_w_b_functor.html" title=" " alt="" coords="9455,233,9625,531"/>
+<area shape="rect" id="node86" href="$class_w_b_functor.html" title=" " alt="" coords="9649,233,9855,531"/>
+<area shape="rect" id="node88" href="$class_w_b_functor.html" title=" " alt="" coords="9879,233,10075,531"/>
+<area shape="rect" id="node90" href="$class_w_b_functor.html" title=" " alt="" coords="10100,241,10319,523"/>
+<area shape="rect" id="node92" href="$class_w_b_functor.html" title=" " alt="" coords="10343,233,10545,531"/>
+<area shape="rect" id="node94" href="$class_w_b_functor.html" title=" " alt="" coords="10569,233,10751,531"/>
+<area shape="rect" id="node96" href="$class_w_b_functor.html" title=" " alt="" coords="10775,241,11015,523"/>
+<area shape="rect" id="node98" href="$class_w_b_functor.html" title=" " alt="" coords="11039,233,11225,531"/>
+<area shape="rect" id="node100" href="$class_w_b_functor.html" title=" " alt="" coords="11249,233,11418,531"/>
+<area shape="rect" id="node102" href="$class_w_b_functor.html" title=" " alt="" coords="11443,233,11616,531"/>
+<area shape="rect" id="node104" href="$class_w_b_functor.html" title=" " alt="" coords="11641,233,11810,531"/>
+<area shape="rect" id="node106" href="$class_w_b_functor.html" title=" " alt="" coords="11834,233,12003,531"/>
+<area shape="rect" id="node108" href="$class_w_b_functor.html" title=" " alt="" coords="12027,233,12197,531"/>
+<area shape="rect" id="node110" href="$class_w_b_functor.html" title=" " alt="" coords="12221,233,12414,531"/>
+<area shape="rect" id="node112" href="$class_w_b_functor.html" title=" " alt="" coords="12438,233,12607,531"/>
+<area shape="rect" id="node114" href="$class_w_b_functor.html" title=" " alt="" coords="12631,233,12814,531"/>
+<area shape="rect" id="node116" href="$class_w_b_functor.html" title=" " alt="" coords="12838,241,13085,523"/>
+<area shape="rect" id="node118" href="$class_w_b_functor.html" title=" " alt="" coords="13109,241,13355,523"/>
+<area shape="rect" id="node120" href="$class_w_b_functor.html" title=" " alt="" coords="13379,233,13549,531"/>
+<area shape="rect" id="node122" href="$class_w_b_functor.html" title=" " alt="" coords="13573,233,13742,531"/>
+<area shape="rect" id="node124" href="$class_w_b_functor.html" title=" " alt="" coords="13766,233,13943,531"/>
+<area shape="rect" id="node126" href="$class_w_b_functor.html" title=" " alt="" coords="13968,233,14147,531"/>
+<area shape="rect" id="node128" href="$class_w_b_functor.html" title=" " alt="" coords="14171,233,14341,531"/>
+<area shape="rect" id="node130" href="$class_w_b_functor.html" title=" " alt="" coords="14365,241,14585,523"/>
+<area shape="rect" id="node132" href="$class_w_b_functor.html" title=" " alt="" coords="14609,241,14839,523"/>
+<area shape="rect" id="node134" href="$class_w_b_functor.html" title=" " alt="" coords="14863,241,15094,523"/>
+<area shape="rect" id="node136" href="$class_w_b_functor.html" title=" " alt="" coords="15118,233,15287,531"/>
+<area shape="rect" id="node138" href="$class_w_b_functor.html" title=" " alt="" coords="15312,233,15563,531"/>
+<area shape="rect" id="node140" href="$class_w_b_functor.html" title="WBFunctor callback manager class." alt="" coords="15587,241,15757,523"/>
+<area shape="rect" id="node3" href="$class_amber_e_won___w_b_functor.html" title="WBFunctor definition for AmberEWon_WBFunctor_T." alt="" coords="5,593,208,715"/>
+<area shape="rect" id="node5" href="$class_amber_n_son___w_b_functor.html" title="WBFunctor definition for AmberNSon_WBFunctor_T." alt="" coords="232,593,435,715"/>
+<area shape="rect" id="node7" href="$class_arduino2_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino2PinValue_WBFunctor_T." alt="" coords="459,593,693,715"/>
+<area shape="rect" id="node9" href="$class_arduino2_pin___w_b_functor.html" title="WBFunctor definition for Arduino2Pin_WBFunctor_T." alt="" coords="718,593,919,715"/>
+<area shape="rect" id="node11" href="$class_arduino3_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino3PinValue_WBFunctor_T." alt="" coords="944,593,1179,715"/>
+<area shape="rect" id="node13" href="$class_arduino3_pin___w_b_functor.html" title="WBFunctor definition for Arduino3Pin_WBFunctor_T." alt="" coords="1203,593,1405,715"/>
+<area shape="rect" id="node15" href="$class_arduino4_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino4PinValue_WBFunctor_T." alt="" coords="1429,593,1664,715"/>
+<area shape="rect" id="node17" href="$class_arduino4_pin___w_b_functor.html" title="WBFunctor definition for Arduino4Pin_WBFunctor_T." alt="" coords="1689,593,1890,715"/>
+<area shape="rect" id="node19" href="$class_arduino5_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino5PinValue_WBFunctor_T." alt="" coords="1915,593,2149,715"/>
+<area shape="rect" id="node21" href="$class_arduino5_pin___w_b_functor.html" title="WBFunctor definition for Arduino5Pin_WBFunctor_T." alt="" coords="2174,593,2375,715"/>
+<area shape="rect" id="node23" href="$class_arduino6_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino6PinValue_WBFunctor_T." alt="" coords="2400,593,2635,715"/>
+<area shape="rect" id="node25" href="$class_arduino6_pin___w_b_functor.html" title="WBFunctor definition for Arduino6Pin_WBFunctor_T." alt="" coords="2659,593,2861,715"/>
+<area shape="rect" id="node27" href="$class_arduino7_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino7PinValue_WBFunctor_T." alt="" coords="2885,593,3120,715"/>
+<area shape="rect" id="node29" href="$class_arduino7_pin___w_b_functor.html" title="WBFunctor definition for Arduino7Pin_WBFunctor_T." alt="" coords="3145,593,3346,715"/>
+<area shape="rect" id="node31" href="$class_arduino8_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino8PinValue_WBFunctor_T." alt="" coords="3371,593,3605,715"/>
+<area shape="rect" id="node33" href="$class_arduino8_pin___w_b_functor.html" title="WBFunctor definition for Arduino8Pin_WBFunctor_T." alt="" coords="3630,593,3831,715"/>
+<area shape="rect" id="node35" href="$class_arduino9_pin_value___w_b_functor.html" title="WBFunctor definition for Arduino9PinValue_WBFunctor_T." alt="" coords="3856,593,4091,715"/>
+<area shape="rect" id="node37" href="$class_arduino9_pin___w_b_functor.html" title="WBFunctor definition for Arduino9Pin_WBFunctor_T." alt="" coords="4115,593,4317,715"/>
+<area shape="rect" id="node39" href="$class_ball___calibration___file___w_b_functor.html" title="WBFunctor definition for Ball_Calibration_File_WBFunctor_T." alt="" coords="4341,579,4536,729"/>
+<area shape="rect" id="node41" href="$class_ball___calibration___num___w_b_functor.html" title="WBFunctor definition for Ball_Calibration_Num_WBFunctor_T." alt="" coords="4560,579,4755,729"/>
+<area shape="rect" id="node43" href="$class_ball___color___num___w_b_functor.html" title="WBFunctor definition for Ball_Color_Num_WBFunctor_T." alt="" coords="4779,593,5005,715"/>
+<area shape="rect" id="node45" href="$class_ball___found___w_b_functor.html" title="WBFunctor definition for Ball_Found_WBFunctor_T." alt="" coords="5029,593,5225,715"/>
+<area shape="rect" id="node47" href="$class_c_ball___w_b_functor.html" title="WBFunctor definition for CBall_WBFunctor_T." alt="" coords="5249,593,5415,715"/>
+<area shape="rect" id="node49" href="$class_car_sensor_pressed___w_b_functor.html" title="WBFunctor definition for CarSensorPressed_WBFunctor_T." alt="" coords="5440,593,5680,715"/>
+<area shape="rect" id="node51" href="$class_draw___w_b_functor.html" title="WBFunctor definition for Draw_WBFunctor_T." alt="" coords="5704,593,5869,715"/>
+<area shape="rect" id="node53" href="$class_f_f_t_control___w_b_functor.html" title="WBFunctor definition for FFTControl_WBFunctor_T." alt="" coords="5894,593,6090,715"/>
+<area shape="rect" id="node55" href="$class_green_e_won___w_b_functor.html" title="WBFunctor definition for GreenEWon_WBFunctor_T." alt="" coords="6115,593,6315,715"/>
+<area shape="rect" id="node57" href="$class_green_n_son___w_b_functor.html" title="WBFunctor definition for GreenNSon_WBFunctor_T." alt="" coords="6338,593,6537,715"/>
+<area shape="rect" id="node59" href="$class_l_hand_gripper___w_b_functor.html" title="WBFunctor definition for LHandGripper_WBFunctor_T." alt="" coords="6561,593,6773,715"/>
+<area shape="rect" id="node61" href="$class_manually_penalized___w_b_functor.html" title="WBFunctor definition for ManuallyPenalized_WBFunctor_T." alt="" coords="6797,593,7035,715"/>
+<area shape="rect" id="node63" href="$class_p_f___control_status___modes___w_b_functor.html" title="WBFunctor definition for PF_ControlStatus_Modes_WBFunctor_T." alt="" coords="7060,579,7268,729"/>
+<area shape="rect" id="node65" href="$class_particle_output_map_control___w_b_functor.html" title="WBFunctor definition for ParticleOutputMapControl_WBFunctor_T." alt="" coords="7293,579,7547,729"/>
+<area shape="rect" id="node67" href="$class_particle_output_map___w_b_functor.html" title="WBFunctor definition for ParticleOutputMap_WBFunctor_T." alt="" coords="7571,593,7810,715"/>
+<area shape="rect" id="node69" href="$class_player_number___w_b_functor.html" title="WBFunctor definition for PlayerNumber_WBFunctor_T." alt="" coords="7835,593,8048,715"/>
+<area shape="rect" id="node71" href="$class_print___w_b_functor.html" title="WBFunctor definition for Print_WBFunctor_T." alt="" coords="8073,593,8231,715"/>
+<area shape="rect" id="node73" href="$class_q_say___w_b_functor.html" title="WBFunctor definition for QSay_WBFunctor_T." alt="" coords="8255,593,8425,715"/>
+<area shape="rect" id="node75" href="$class_q_speech___w_b_functor.html" title="WBFunctor definition for QSpeech_WBFunctor_T." alt="" coords="8449,593,8626,715"/>
+<area shape="rect" id="node77" href="$class_r_e_m_o_v_e_d3___w_b_functor.html" title="WBFunctor definition for REMOVED3_WBFunctor_T." alt="" coords="8651,593,8853,715"/>
+<area shape="rect" id="node79" href="$class_r_e_m_o_v_e_d4___w_b_functor.html" title="WBFunctor definition for REMOVED4_WBFunctor_T." alt="" coords="8877,593,9080,715"/>
+<area shape="rect" id="node81" href="$class_r_hand_gripper___w_b_functor.html" title="WBFunctor definition for RHandGripper_WBFunctor_T." alt="" coords="9104,593,9317,715"/>
+<area shape="rect" id="node83" href="$class_red_e_won___w_b_functor.html" title="WBFunctor definition for RedEWon_WBFunctor_T." alt="" coords="9342,593,9522,715"/>
+<area shape="rect" id="node85" href="$class_red_n_son___w_b_functor.html" title="WBFunctor definition for RedNSon_WBFunctor_T." alt="" coords="9547,593,9725,715"/>
+<area shape="rect" id="node87" href="$class_reproduce_wav_not_silent___w_b_functor.html" title="WBFunctor definition for ReproduceWavNotSilent_WBFunctor_T." alt="" coords="9750,579,9965,729"/>
+<area shape="rect" id="node89" href="$class_s_l_o_t___u_n_u_s_e_d___w_b_functor.html" title="WBFunctor definition for SLOT_UNUSED_WBFunctor_T." alt="" coords="9989,593,10219,715"/>
+<area shape="rect" id="node91" href="$class_say___w_b_functor.html" title="WBFunctor definition for Say_WBFunctor_T." alt="" coords="10243,593,10392,715"/>
+<area shape="rect" id="node93" href="$class_solo_type_example___w_b_functor.html" title="WBFunctor definition for SoloTypeExample_WBFunctor_T." alt="" coords="10416,593,10651,715"/>
+<area shape="rect" id="node95" href="$class_speech_output___w_b_functor.html" title="WBFunctor definition for SpeechOutput_WBFunctor_T." alt="" coords="10675,593,10890,715"/>
+<area shape="rect" id="node97" href="$class_speech___w_b_functor.html" title="WBFunctor definition for Speech_WBFunctor_T." alt="" coords="10914,593,11107,715"/>
+<area shape="rect" id="node99" href="$class_teleoperation_connection___w_b_functor.html" title="WBFunctor definition for TeleoperationConnection_WBFunctor_T." alt="" coords="11132,579,11380,729"/>
+<area shape="rect" id="node101" href="$class_time_g_tfive___w_b_functor.html" title="WBFunctor definition for TimeGTfive_WBFunctor_T." alt="" coords="11403,593,11602,715"/>
+<area shape="rect" id="node103" href="$class_time_g_tthirty___w_b_functor.html" title="WBFunctor definition for TimeGTthirty_WBFunctor_T." alt="" coords="11626,593,11833,715"/>
+<area shape="rect" id="node105" href="$class_timer_reset___w_b_functor.html" title="WBFunctor definition for TimerReset_WBFunctor_T." alt="" coords="11857,593,12055,715"/>
+<area shape="rect" id="node107" href="$class_turn_red_e_w___w_b_functor.html" title="WBFunctor definition for TurnRedEW_WBFunctor_T." alt="" coords="12079,593,12279,715"/>
+<area shape="rect" id="node109" href="$class_turn_red_n_s___w_b_functor.html" title="WBFunctor definition for TurnRedNS_WBFunctor_T." alt="" coords="12302,593,12501,715"/>
+<area shape="rect" id="node111" href="$class_u_d_p_w_b_number___w_b_functor.html" title="WBFunctor definition for UDPWBNumber_WBFunctor_T." alt="" coords="12525,593,12752,715"/>
+<area shape="rect" id="node113" href="$class_vision_face___w_b_functor.html" title="WBFunctor definition for VisionFace_WBFunctor_T." alt="" coords="12777,593,12973,715"/>
+<area shape="rect" id="node115" href="$class_volume_control___w_b_functor.html" title="WBFunctor definition for VolumeControl_WBFunctor_T." alt="" coords="12997,593,13213,715"/>
+<area shape="rect" id="node117" href="$class_warn_e_w___w_b_functor.html" title="WBFunctor definition for WarnEW_WBFunctor_T." alt="" coords="13237,593,13443,715"/>
+<area shape="rect" id="node119" href="$class_warn_n_s___w_b_functor.html" title="WBFunctor definition for WarnNS_WBFunctor_T." alt="" coords="13467,593,13669,715"/>
+<area shape="rect" id="node121" href="$class_wav_load___w_b_functor.html" title="WBFunctor definition for WavLoad_WBFunctor_T." alt="" coords="13693,593,13872,715"/>
+<area shape="rect" id="node123" href="$class_wav_play___w_b_functor.html" title="WBFunctor definition for WavPlay_WBFunctor_T." alt="" coords="13897,593,14071,715"/>
+<area shape="rect" id="node125" href="$class_whistle_blown___w_b_functor.html" title="WBFunctor definition for WhistleBlown_WBFunctor_T." alt="" coords="14096,593,14307,715"/>
+<area shape="rect" id="node127" href="$classbutton_pushed___w_b_functor.html" title="WBFunctor definition for buttonPushed_WBFunctor_T." alt="" coords="14331,593,14541,715"/>
+<area shape="rect" id="node129" href="$classdoor_open___w_b_functor.html" title="WBFunctor definition for doorOpen_WBFunctor_T." alt="" coords="14565,593,14752,715"/>
+<area shape="rect" id="node131" href="$classlight___w_b_functor.html" title="WBFunctor definition for light_WBFunctor_T." alt="" coords="14777,593,14930,715"/>
+<area shape="rect" id="node133" href="$classmotor___w_b_functor.html" title="WBFunctor definition for motor_WBFunctor_T." alt="" coords="14955,593,15125,715"/>
+<area shape="rect" id="node135" href="$classsound___w_b_functor.html" title="WBFunctor definition for sound_WBFunctor_T." alt="" coords="15150,593,15325,715"/>
+<area shape="rect" id="node137" href="$classtime_left___w_b_functor.html" title="WBFunctor definition for timeLeft_WBFunctor_T." alt="" coords="15349,593,15528,715"/>
+<area shape="rect" id="node139" href="$classwb__reserved___subscribe_to_all_types___w_b_functor.html" title="/file WBFunctor_types_generated.h" alt="" coords="15552,579,15803,729"/>
+</map>

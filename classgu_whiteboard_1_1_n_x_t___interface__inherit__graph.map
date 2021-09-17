@@ -1,0 +1,4 @@
+<map id="guWhiteboard::NXT_Interface" name="guWhiteboard::NXT_Interface">
+<area shape="rect" id="node1" title="Class for interacting with and reading the values of NXT sensors and motors." alt="" coords="5,131,197,281"/>
+<area shape="rect" id="node2" href="$structwb__nxt__interface.html" title="Interface for talking with an NXT." alt="" coords="19,5,183,83"/>
+</map>

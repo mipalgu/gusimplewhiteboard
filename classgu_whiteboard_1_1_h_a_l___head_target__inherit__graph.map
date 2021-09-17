@@ -1,0 +1,4 @@
+<map id="guWhiteboard::HAL_HeadTarget" name="guWhiteboard::HAL_HeadTarget">
+<area shape="rect" id="node1" title="Class for moving a robotic head in abs coords." alt="" coords="5,145,215,311"/>
+<area shape="rect" id="node2" href="$structwb__hal__headtarget.html" title="HAL_HeadTarget c struct." alt="" coords="35,5,185,97"/>
+</map>

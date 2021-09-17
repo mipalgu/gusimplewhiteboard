@@ -1,0 +1,3 @@
+<map id="guWhiteboard::Motions::Stance_Path" name="guWhiteboard::Motions::Stance_Path">
+<area shape="rect" id="node1" title="Internal class for cost based graph search paths, in this case motion paths." alt="" coords="5,5,159,229"/>
+</map>

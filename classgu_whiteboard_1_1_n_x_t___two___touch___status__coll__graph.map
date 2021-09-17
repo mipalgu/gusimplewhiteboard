@@ -1,0 +1,4 @@
+<map id="guWhiteboard::NXT_Two_Touch_Status" name="guWhiteboard::NXT_Two_Touch_Status">
+<area shape="rect" id="node1" title="Class for controlling differential robots Defines whiteboard message." alt="" coords="5,131,193,281"/>
+<area shape="rect" id="node2" href="$structwb__buttons__status.html" title="An Array of buttons for talking with an NXT." alt="" coords="17,5,181,83"/>
+</map>

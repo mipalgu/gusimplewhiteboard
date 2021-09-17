@@ -1,0 +1,4 @@
+<map id="guWhiteboard::SENSORSLedsSensors" name="guWhiteboard::SENSORSLedsSensors">
+<area shape="rect" id="node1" title="Class for changing the LEDs on a robot, designed for Nao but is fairly generic." alt="" coords="5,131,205,281"/>
+<area shape="rect" id="node2" href="$structwb__sensors__leds.html" title="LED sensors c struct." alt="" coords="44,5,167,83"/>
+</map>

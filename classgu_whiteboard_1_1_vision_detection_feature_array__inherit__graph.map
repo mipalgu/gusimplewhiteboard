@@ -1,0 +1,4 @@
+<map id="guWhiteboard::VisionDetectionFeatureArray" name="guWhiteboard::VisionDetectionFeatureArray">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_detection_feature_array." alt="" coords="5,160,212,399"/>
+<area shape="rect" id="node2" href="$structwb__vision__detection__feature__array.html" title="Results for the Feature Detector (guvision)." alt="" coords="39,5,179,112"/>
+</map>

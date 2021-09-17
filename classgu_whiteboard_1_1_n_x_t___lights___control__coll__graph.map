@@ -1,0 +1,4 @@
+<map id="guWhiteboard::NXT_Lights_Control" name="guWhiteboard::NXT_Lights_Control">
+<area shape="rect" id="node1" title="Class for controlling differential robots Defines whiteboard message." alt="" coords="5,131,183,281"/>
+<area shape="rect" id="node2" href="$structwb__lights.html" title="Lights that can go an on — C struct." alt="" coords="55,5,133,83"/>
+</map>

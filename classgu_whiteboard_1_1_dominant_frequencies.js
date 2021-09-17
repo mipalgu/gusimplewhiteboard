@@ -1,0 +1,25 @@
+var classgu_whiteboard_1_1_dominant_frequencies =
+[
+    [ "DominantFrequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#acae649b194192f014e3c0129b7976516", null ],
+    [ "DominantFrequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#a6cf73670f0151bbdefa57a6c08b3468c", null ],
+    [ "DominantFrequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#adfeb85ac026b529075ab2cf24c9b495e", null ],
+    [ "DominantFrequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#a8757b60fc49a68f6f1845dea24072ae7", null ],
+    [ "description", "classgu_whiteboard_1_1_dominant_frequencies.html#ac2940c4c4d3ab9bd4e18a31475d90a17", null ],
+    [ "frequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#ad66787a1417607a73995d6a949208b9c", null ],
+    [ "frequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#a0230ef6d68b058717f07d674286b9833", null ],
+    [ "frequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#ac8279ad1baf838b893719a4e58bb3b4d", null ],
+    [ "frequencies_size", "classgu_whiteboard_1_1_dominant_frequencies.html#a16241aa8f41adbbbc427ab86d457d89a", null ],
+    [ "from_string", "classgu_whiteboard_1_1_dominant_frequencies.html#ad4d042096acc314026c44d8cb0e57bc5", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_dominant_frequencies.html#a4ac04d829595a0a69b4bc783b7058b24", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_dominant_frequencies.html#aa6839d984b833e49975ef77823f561cc", null ],
+    [ "operator=", "classgu_whiteboard_1_1_dominant_frequencies.html#ad5893ecd2c80ffe498be33afccc54078", null ],
+    [ "operator=", "classgu_whiteboard_1_1_dominant_frequencies.html#a4fc0f0526e648db0b772021750bfc75c", null ],
+    [ "operator==", "classgu_whiteboard_1_1_dominant_frequencies.html#a641878b8d9029040237209b0d1055567", null ],
+    [ "operator==", "classgu_whiteboard_1_1_dominant_frequencies.html#ae1bfaa77dc89f84941841ef8aa307d3f", null ],
+    [ "rms", "classgu_whiteboard_1_1_dominant_frequencies.html#a2697c939d7a8e0d9013b3ac66f38fc75", null ],
+    [ "rms", "classgu_whiteboard_1_1_dominant_frequencies.html#aa1a8ee1947c61d0bbe4dcc1c1d08b300", null ],
+    [ "set_frequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#a6af0a529e065319abc52c41d208790f2", null ],
+    [ "set_frequencies", "classgu_whiteboard_1_1_dominant_frequencies.html#a90ff65967b9f452e025800c88f1df0b1", null ],
+    [ "set_rms", "classgu_whiteboard_1_1_dominant_frequencies.html#afe3edb6b5c9a948f3b6e9a85d7de8592", null ],
+    [ "to_string", "classgu_whiteboard_1_1_dominant_frequencies.html#adc08ad7006587ea1ce4b4af943eea9a7", null ]
+];

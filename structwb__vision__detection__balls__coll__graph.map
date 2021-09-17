@@ -1,0 +1,5 @@
+<map id="wb_vision_detection_balls" name="wb_vision_detection_balls">
+<area shape="rect" id="node1" title="Array of fieldBalls, one instance reported by each camera." alt="" coords="19,329,159,451"/>
+<area shape="rect" id="node2" href="$structwb__vision__detection__ball.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="5,160,172,267"/>
+<area shape="rect" id="node3" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="19,5,158,97"/>
+</map>

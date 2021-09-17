@@ -1,0 +1,5 @@
+<map id="guWhiteboard::LineSighting" name="guWhiteboard::LineSighting">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_line_sighting." alt="" coords="5,301,184,525"/>
+<area shape="rect" id="node2" href="$structwb__line__sighting.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,175,154,252"/>
+<area shape="rect" id="node3" href="$structwb__polar__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="24,5,165,97"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="fft_dominant_frequency" name="fft_dominant_frequency">
+<area shape="rect" id="node1" title="Main FFT Analysis Structure This structure contains all the components of the FFT analysis,..." alt="" coords="8,5,172,171"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_f_f_t_status.html" title="Container for RMS levels and dominant frequencies." alt="" coords="5,219,175,428"/>
+</map>

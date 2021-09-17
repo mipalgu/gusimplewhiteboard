@@ -1,0 +1,8 @@
+<map id="guWhiteboard::PF_ControlStatus_Modes_t" name="guWhiteboard::PF_ControlStatus_Modes_t">
+<area shape="rect" id="node1" title="WB Ptr Class: PF_ControlStatus_Modes_t." alt="" coords="5,1368,207,1489"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="21,1168,191,1319"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="30,777,182,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="41,564,171,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="19,321,193,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="31,5,181,229"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="guWhiteboard::SENSORSTorsoJointTemps" name="guWhiteboard::SENSORSTorsoJointTemps">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_sensors_torsojointtemps." alt="" coords="5,336,212,575"/>
+<area shape="rect" id="node2" href="$structwb__sensors__torsojointtemps.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="15,5,203,288"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="wb_sensors_torsojointtemps" name="wb_sensors_torsojointtemps">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="15,5,203,288"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_s_e_n_s_o_r_s_torso_joint_temps.html" title="Provides a C++ wrapper around wb_sensors_torsojointtemps." alt="" coords="5,336,212,575"/>
+</map>

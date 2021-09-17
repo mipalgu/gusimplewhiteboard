@@ -1,0 +1,4 @@
+<map id="guWhiteboard::VisionDetectionFeature" name="guWhiteboard::VisionDetectionFeature">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_detection_feature." alt="" coords="5,160,204,399"/>
+<area shape="rect" id="node2" href="$structwb__vision__detection__feature.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,5,175,112"/>
+</map>

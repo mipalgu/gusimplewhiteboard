@@ -1,0 +1,25 @@
+var classgu_whiteboard_1_1_particle_position =
+[
+    [ "ParticlePosition", "classgu_whiteboard_1_1_particle_position.html#a7c386ceeebaef8f72d77efe9faa52b12", null ],
+    [ "ParticlePosition", "classgu_whiteboard_1_1_particle_position.html#a6a92de9d355727473829a5d21226373f", null ],
+    [ "ParticlePosition", "classgu_whiteboard_1_1_particle_position.html#a4f714f7462832beeb9608792a014b4e3", null ],
+    [ "ParticlePosition", "classgu_whiteboard_1_1_particle_position.html#a9c6d790b4710637a79914b7f7a9d8e01", null ],
+    [ "confidence", "classgu_whiteboard_1_1_particle_position.html#a072a262c0cae2b695bbc300dbb8ded57", null ],
+    [ "confidence", "classgu_whiteboard_1_1_particle_position.html#a562293bb8f0adf35bb187dfae0a973e4", null ],
+    [ "description", "classgu_whiteboard_1_1_particle_position.html#a092cee4f0b7a28ed60e4b52620a0df68", null ],
+    [ "from_string", "classgu_whiteboard_1_1_particle_position.html#af750e3367ffc9459edeeb9d11ed3d171", null ],
+    [ "headingInDegrees", "classgu_whiteboard_1_1_particle_position.html#a11db76d91f4061eb5f2849221f1c2954", null ],
+    [ "headingInDegrees", "classgu_whiteboard_1_1_particle_position.html#a6d31e2eb538e68433ed309ffae637c0b", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_particle_position.html#a125c42c1e898aa21c92ba2b38c32742e", null ],
+    [ "operator!=", "classgu_whiteboard_1_1_particle_position.html#a76e58afb4bafe2a0700baf1e27cdd599", null ],
+    [ "operator=", "classgu_whiteboard_1_1_particle_position.html#a14219de0bfccbcbfd2217e65b8caf6dd", null ],
+    [ "operator=", "classgu_whiteboard_1_1_particle_position.html#a8912d7cfcd6490aa61bff3bd6b0cf2b2", null ],
+    [ "operator==", "classgu_whiteboard_1_1_particle_position.html#a4058ddf57e47aaacffa26fe0584960cc", null ],
+    [ "operator==", "classgu_whiteboard_1_1_particle_position.html#ad54c63409eb646e71f93a954ba927c26", null ],
+    [ "position", "classgu_whiteboard_1_1_particle_position.html#a28ab4dd64eab9ea11a28d6336ae9f6bd", null ],
+    [ "position", "classgu_whiteboard_1_1_particle_position.html#a327d79ab40690e2e88cc193b3bd02875", null ],
+    [ "set_confidence", "classgu_whiteboard_1_1_particle_position.html#a7c2c1e7d8ab1956121d059f10b61a3ff", null ],
+    [ "set_headingInDegrees", "classgu_whiteboard_1_1_particle_position.html#acd85cfc9175ddac2c760a927c8af356b", null ],
+    [ "set_position", "classgu_whiteboard_1_1_particle_position.html#a591f4157dad198b160c887dc3c809bd3", null ],
+    [ "to_string", "classgu_whiteboard_1_1_particle_position.html#acec79a8475a3a654994904812afb24f4", null ]
+];

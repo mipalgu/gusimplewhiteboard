@@ -1,0 +1,285 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="5,7510,157,7551"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="233,49,439,90"/>
+<area shape="rect" id="node5" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="239,788,433,844"/>
+<area shape="rect" id="node7" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,1542,415,1583"/>
+<area shape="rect" id="node56" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="251,2914,421,2955"/>
+<area shape="rect" id="node61" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="241,3139,431,3181"/>
+<area shape="rect" id="node63" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,3307,415,3349"/>
+<area shape="rect" id="node72" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,3617,415,3658"/>
+<area shape="rect" id="node76" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="242,3773,430,3814"/>
+<area shape="rect" id="node79" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,3925,419,3966"/>
+<area shape="rect" id="node81" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,4051,415,4093"/>
+<area shape="rect" id="node89" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="249,4245,423,4286"/>
+<area shape="rect" id="node91" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="256,4310,416,4351"/>
+<area shape="rect" id="node93" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,4375,415,4417"/>
+<area shape="rect" id="node95" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="243,4442,429,4483"/>
+<area shape="rect" id="node97" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="251,4511,421,4567"/>
+<area shape="rect" id="node100" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="213,4590,459,4631"/>
+<area shape="rect" id="node102" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="245,4655,427,4697"/>
+<area shape="rect" id="node104" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="223,4721,449,4762"/>
+<area shape="rect" id="node107" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="241,4786,431,4827"/>
+<area shape="rect" id="node109" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="247,4851,425,4893"/>
+<area shape="rect" id="node111" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="245,4916,427,4972"/>
+<area shape="rect" id="node113" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="245,4996,427,5052"/>
+<area shape="rect" id="node115" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="245,5076,427,5132"/>
+<area shape="rect" id="node117" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="228,5155,444,5197"/>
+<area shape="rect" id="node120" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="233,5221,439,5262"/>
+<area shape="rect" id="node123" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,5335,415,5391"/>
+<area shape="rect" id="node126" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="227,5455,445,5511"/>
+<area shape="rect" id="node128" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="225,5614,447,5655"/>
+<area shape="rect" id="node130" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="235,5721,437,5762"/>
+<area shape="rect" id="node137" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="237,6047,435,6089"/>
+<area shape="rect" id="node144" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="223,6113,449,6154"/>
+<area shape="rect" id="node146" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="256,6178,416,6219"/>
+<area shape="rect" id="node148" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,6243,419,6285"/>
+<area shape="rect" id="node150" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="255,6308,417,6364"/>
+<area shape="rect" id="node152" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="255,6388,417,6444"/>
+<area shape="rect" id="node154" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="235,6468,437,6524"/>
+<area shape="rect" id="node156" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="235,6548,437,6604"/>
+<area shape="rect" id="node158" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="235,6628,437,6684"/>
+<area shape="rect" id="node160" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="220,6708,452,6764"/>
+<area shape="rect" id="node163" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="225,6787,447,6829"/>
+<area shape="rect" id="node165" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="239,6852,433,6908"/>
+<area shape="rect" id="node167" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="244,6931,428,6973"/>
+<area shape="rect" id="node169" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="243,6997,429,7038"/>
+<area shape="rect" id="node171" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="233,7062,439,7103"/>
+<area shape="rect" id="node174" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="247,7127,425,7183"/>
+<area shape="rect" id="node176" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="246,7207,426,7263"/>
+<area shape="rect" id="node178" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="252,7287,420,7343"/>
+<area shape="rect" id="node180" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="213,7366,459,7407"/>
+<area shape="rect" id="node182" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="225,7431,447,7487"/>
+<area shape="rect" id="node184" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="220,7510,452,7551"/>
+<area shape="rect" id="node186" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="231,7575,441,7617"/>
+<area shape="rect" id="node188" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="213,7641,459,7682"/>
+<area shape="rect" id="node190" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,7705,415,7761"/>
+<area shape="rect" id="node192" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="241,7785,431,7826"/>
+<area shape="rect" id="node194" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,7850,415,7891"/>
+<area shape="rect" id="node196" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="205,7915,467,7957"/>
+<area shape="rect" id="node198" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="225,7980,447,8036"/>
+<area shape="rect" id="node200" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="225,8060,447,8116"/>
+<area shape="rect" id="node202" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="233,8140,439,8196"/>
+<area shape="rect" id="node204" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="233,8220,439,8276"/>
+<area shape="rect" id="node206" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="233,8300,439,8356"/>
+<area shape="rect" id="node208" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="213,8379,459,8421"/>
+<area shape="rect" id="node210" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="215,8445,457,8486"/>
+<area shape="rect" id="node212" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="213,8510,459,8551"/>
+<area shape="rect" id="node214" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="213,8575,459,8617"/>
+<area shape="rect" id="node216" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="245,8640,427,8696"/>
+<area shape="rect" id="node218" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="223,8720,449,8776"/>
+<area shape="rect" id="node220" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="218,8799,454,8841"/>
+<area shape="rect" id="node222" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="243,8864,429,8920"/>
+<area shape="rect" id="node224" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="243,8944,429,9000"/>
+<area shape="rect" id="node226" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="243,9024,429,9080"/>
+<area shape="rect" id="node228" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="243,9104,429,9160"/>
+<area shape="rect" id="node230" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="215,9183,457,9225"/>
+<area shape="rect" id="node232" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="239,9249,433,9290"/>
+<area shape="rect" id="node234" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="227,9314,445,9355"/>
+<area shape="rect" id="node236" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="247,9379,425,9421"/>
+<area shape="rect" id="node238" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="243,9444,429,9500"/>
+<area shape="rect" id="node241" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="236,9524,436,9580"/>
+<area shape="rect" id="node243" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="236,9604,436,9660"/>
+<area shape="rect" id="node245" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="236,9684,436,9740"/>
+<area shape="rect" id="node247" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="236,9764,436,9820"/>
+<area shape="rect" id="node249" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="236,9844,436,9900"/>
+<area shape="rect" id="node251" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,9924,415,9980"/>
+<area shape="rect" id="node253" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="219,10003,453,10045"/>
+<area shape="rect" id="node255" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="241,10069,431,10110"/>
+<area shape="rect" id="node257" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="237,10134,435,10175"/>
+<area shape="rect" id="node259" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,10199,415,10241"/>
+<area shape="rect" id="node261" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10264,419,10320"/>
+<area shape="rect" id="node263" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10344,419,10400"/>
+<area shape="rect" id="node265" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10424,419,10480"/>
+<area shape="rect" id="node267" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10504,419,10560"/>
+<area shape="rect" id="node269" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="237,10584,435,10640"/>
+<area shape="rect" id="node271" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10664,419,10720"/>
+<area shape="rect" id="node273" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10744,419,10800"/>
+<area shape="rect" id="node275" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10824,419,10880"/>
+<area shape="rect" id="node277" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,10904,419,10960"/>
+<area shape="rect" id="node279" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="248,10983,424,11025"/>
+<area shape="rect" id="node281" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="253,11049,419,11090"/>
+<area shape="rect" id="node283" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="257,11114,415,11155"/>
+<area shape="rect" id="node3" href="$classgu_whiteboard_1_1_a_p_m___command__t.html" title="WB Ptr Class: APM_Command_t." alt="" coords="530,5,743,32"/>
+<area shape="rect" id="node4" href="$classgu_whiteboard_1_1_a_p_m___status__t.html" title="WB Ptr Class: APM_Status_t." alt="" coords="541,56,733,83"/>
+<area shape="rect" id="node6" href="$classgu_whiteboard_1_1_adjust_position_confidence__t.html" title="WB Ptr Class: AdjustPositionConfidence_t." alt="" coords="541,107,732,149"/>
+<area shape="rect" id="node8" href="$classgu_whiteboard_1_1_amber_e_won__t.html" title="WB Ptr Class: AmberEWon_t." alt="" coords="541,173,732,200"/>
+<area shape="rect" id="node9" href="$classgu_whiteboard_1_1_amber_n_son__t.html" title="WB Ptr Class: AmberNSon_t." alt="" coords="542,224,731,251"/>
+<area shape="rect" id="node10" href="$classgu_whiteboard_1_1_arduino2_pin_value__t.html" title="WB Ptr Class: Arduino2PinValue_t." alt="" coords="548,275,725,317"/>
+<area shape="rect" id="node11" href="$classgu_whiteboard_1_1_arduino2_pin__t.html" title="WB Ptr Class: Arduino2Pin_t." alt="" coords="543,341,731,368"/>
+<area shape="rect" id="node12" href="$classgu_whiteboard_1_1_arduino3_pin_value__t.html" title="WB Ptr Class: Arduino3PinValue_t." alt="" coords="548,393,725,434"/>
+<area shape="rect" id="node13" href="$classgu_whiteboard_1_1_arduino3_pin__t.html" title="WB Ptr Class: Arduino3Pin_t." alt="" coords="543,459,731,485"/>
+<area shape="rect" id="node14" href="$classgu_whiteboard_1_1_arduino4_pin_value__t.html" title="WB Ptr Class: Arduino4PinValue_t." alt="" coords="548,510,725,551"/>
+<area shape="rect" id="node15" href="$classgu_whiteboard_1_1_arduino4_pin__t.html" title="WB Ptr Class: Arduino4Pin_t." alt="" coords="543,576,731,603"/>
+<area shape="rect" id="node16" href="$classgu_whiteboard_1_1_arduino5_pin_value__t.html" title="WB Ptr Class: Arduino5PinValue_t." alt="" coords="548,627,725,669"/>
+<area shape="rect" id="node17" href="$classgu_whiteboard_1_1_arduino5_pin__t.html" title="WB Ptr Class: Arduino5Pin_t." alt="" coords="543,693,731,720"/>
+<area shape="rect" id="node18" href="$classgu_whiteboard_1_1_arduino6_pin_value__t.html" title="WB Ptr Class: Arduino6PinValue_t." alt="" coords="548,745,725,786"/>
+<area shape="rect" id="node19" href="$classgu_whiteboard_1_1_arduino6_pin__t.html" title="WB Ptr Class: Arduino6Pin_t." alt="" coords="543,811,731,837"/>
+<area shape="rect" id="node20" href="$classgu_whiteboard_1_1_arduino7_pin_value__t.html" title="WB Ptr Class: Arduino7PinValue_t." alt="" coords="548,862,725,903"/>
+<area shape="rect" id="node21" href="$classgu_whiteboard_1_1_arduino7_pin__t.html" title="WB Ptr Class: Arduino7Pin_t." alt="" coords="543,928,731,955"/>
+<area shape="rect" id="node22" href="$classgu_whiteboard_1_1_arduino8_pin_value__t.html" title="WB Ptr Class: Arduino8PinValue_t." alt="" coords="548,979,725,1021"/>
+<area shape="rect" id="node23" href="$classgu_whiteboard_1_1_arduino8_pin__t.html" title="WB Ptr Class: Arduino8Pin_t." alt="" coords="543,1045,731,1072"/>
+<area shape="rect" id="node24" href="$classgu_whiteboard_1_1_arduino9_pin_value__t.html" title="WB Ptr Class: Arduino9PinValue_t." alt="" coords="548,1097,725,1138"/>
+<area shape="rect" id="node25" href="$classgu_whiteboard_1_1_arduino9_pin__t.html" title="WB Ptr Class: Arduino9Pin_t." alt="" coords="543,1163,731,1189"/>
+<area shape="rect" id="node26" href="$classgu_whiteboard_1_1_ball___found__t.html" title="WB Ptr Class: Ball_Found_t." alt="" coords="572,1214,701,1255"/>
+<area shape="rect" id="node27" href="$classgu_whiteboard_1_1_car_sensor_pressed__t.html" title="WB Ptr Class: CarSensorPressed_t." alt="" coords="523,1280,750,1307"/>
+<area shape="rect" id="node28" href="$classgu_whiteboard_1_1_f_f_t_control__t.html" title="WB Ptr Class: FFTControl_t." alt="" coords="545,1331,728,1357"/>
+<area shape="rect" id="node29" href="$classgu_whiteboard_1_1_green_e_won__t.html" title="WB Ptr Class: GreenEWon_t." alt="" coords="543,1381,730,1408"/>
+<area shape="rect" id="node30" href="$classgu_whiteboard_1_1_green_n_son__t.html" title="WB Ptr Class: GreenNSon_t." alt="" coords="543,1432,730,1459"/>
+<area shape="rect" id="node31" href="$classgu_whiteboard_1_1_particle_output_map_control__t.html" title="WB Ptr Class: ParticleOutputMapControl_t." alt="" coords="541,1483,732,1525"/>
+<area shape="rect" id="node32" href="$classgu_whiteboard_1_1_r_e_m_o_v_e_d3__t.html" title="WB Ptr Class: REMOVED3_t." alt="" coords="542,1549,731,1576"/>
+<area shape="rect" id="node33" href="$classgu_whiteboard_1_1_r_e_m_o_v_e_d4__t.html" title="WB Ptr Class: REMOVED4_t." alt="" coords="542,1600,731,1627"/>
+<area shape="rect" id="node34" href="$classgu_whiteboard_1_1_red_e_won__t.html" title="WB Ptr Class: RedEWon_t." alt="" coords="549,1651,724,1677"/>
+<area shape="rect" id="node35" href="$classgu_whiteboard_1_1_red_n_son__t.html" title="WB Ptr Class: RedNSon_t." alt="" coords="549,1701,724,1728"/>
+<area shape="rect" id="node36" href="$classgu_whiteboard_1_1_reproduce_wav_not_silent__t.html" title="WB Ptr Class: ReproduceWavNotSilent_t." alt="" coords="539,1753,734,1794"/>
+<area shape="rect" id="node37" href="$classgu_whiteboard_1_1_s_l_o_t___u_n_u_s_e_d__t.html" title="WB Ptr Class: SLOT_UNUSED_t." alt="" coords="565,1818,708,1859"/>
+<area shape="rect" id="node38" href="$classgu_whiteboard_1_1_solo_type_example__t.html" title="WB Ptr Class: SoloTypeExample_t." alt="" coords="526,1884,747,1911"/>
+<area shape="rect" id="node39" href="$classgu_whiteboard_1_1_speech_output__t.html" title="WB Ptr Class: SpeechOutput_t." alt="" coords="536,1935,737,1961"/>
+<area shape="rect" id="node40" href="$classgu_whiteboard_1_1_time_g_tfive__t.html" title="WB Ptr Class: TimeGTfive_t." alt="" coords="544,1985,729,2012"/>
+<area shape="rect" id="node41" href="$classgu_whiteboard_1_1_time_g_tthirty__t.html" title="WB Ptr Class: TimeGTthirty_t." alt="" coords="540,2036,733,2063"/>
+<area shape="rect" id="node42" href="$classgu_whiteboard_1_1_timer_reset__t.html" title="WB Ptr Class: TimerReset_t." alt="" coords="544,2087,729,2113"/>
+<area shape="rect" id="node43" href="$classgu_whiteboard_1_1_turn_red_e_w__t.html" title="WB Ptr Class: TurnRedEW_t." alt="" coords="543,2137,730,2164"/>
+<area shape="rect" id="node44" href="$classgu_whiteboard_1_1_turn_red_n_s__t.html" title="WB Ptr Class: TurnRedNS_t." alt="" coords="543,2188,730,2215"/>
+<area shape="rect" id="node45" href="$classgu_whiteboard_1_1_warn_e_w__t.html" title="WB Ptr Class: WarnEW_t." alt="" coords="553,2239,721,2265"/>
+<area shape="rect" id="node46" href="$classgu_whiteboard_1_1_warn_n_s__t.html" title="WB Ptr Class: WarnNS_t." alt="" coords="553,2289,720,2316"/>
+<area shape="rect" id="node47" href="$classgu_whiteboard_1_1_wav_play__t.html" title="WB Ptr Class: WavPlay_t." alt="" coords="552,2340,721,2367"/>
+<area shape="rect" id="node48" href="$classgu_whiteboard_1_1_whistle_blown__t.html" title="WB Ptr Class: WhistleBlown_t." alt="" coords="538,2391,735,2417"/>
+<area shape="rect" id="node49" href="$classgu_whiteboard_1_1button_pushed__t.html" title="WB Ptr Class: buttonPushed_t." alt="" coords="537,2441,736,2468"/>
+<area shape="rect" id="node50" href="$classgu_whiteboard_1_1door_open__t.html" title="WB Ptr Class: doorOpen_t." alt="" coords="549,2492,724,2519"/>
+<area shape="rect" id="node51" href="$classgu_whiteboard_1_1light__t.html" title="WB Ptr Class: light_t." alt="" coords="565,2543,708,2569"/>
+<area shape="rect" id="node52" href="$classgu_whiteboard_1_1motor__t.html" title="WB Ptr Class: motor_t." alt="" coords="561,2593,712,2620"/>
+<area shape="rect" id="node53" href="$classgu_whiteboard_1_1sound__t.html" title="WB Ptr Class: sound_t." alt="" coords="560,2644,713,2671"/>
+<area shape="rect" id="node54" href="$classgu_whiteboard_1_1time_left__t.html" title="WB Ptr Class: timeLeft_t." alt="" coords="553,2695,720,2721"/>
+<area shape="rect" id="node55" href="$classgu_whiteboard_1_1wb__reserved___subscribe_to_all_types__t.html" title="WB Ptr Class: wb_reserved_SubscribeToAllTypes_t." alt="" coords="546,2746,727,2787"/>
+<area shape="rect" id="node57" href="$classgu_whiteboard_1_1_ball_location__t.html" title="WB Ptr Class: BallLocation_t." alt="" coords="541,2812,732,2839"/>
+<area shape="rect" id="node58" href="$classgu_whiteboard_1_1_goal_location__t.html" title="WB Ptr Class: GoalLocation_t." alt="" coords="539,2863,734,2889"/>
+<area shape="rect" id="node59" href="$classgu_whiteboard_1_1_left_goal_post_location__t.html" title="WB Ptr Class: LeftGoalPostLocation_t." alt="" coords="545,2914,729,2955"/>
+<area shape="rect" id="node60" href="$classgu_whiteboard_1_1_right_goal_post_location__t.html" title="WB Ptr Class: RightGoalPostLocation_t." alt="" coords="541,2979,732,3021"/>
+<area shape="rect" id="node62" href="$classgu_whiteboard_1_1_ball_position__t.html" title="WB Ptr Class: BallPosition_t." alt="" coords="543,3045,730,3072"/>
+<area shape="rect" id="node64" href="$classgu_whiteboard_1_1_ball___calibration___file__t.html" title="WB Ptr Class: Ball_Calibration_File_t." alt="" coords="572,3097,701,3138"/>
+<area shape="rect" id="node65" href="$classgu_whiteboard_1_1_draw__t.html" title="WB Ptr Class: Draw_t." alt="" coords="563,3163,711,3189"/>
+<area shape="rect" id="node66" href="$classgu_whiteboard_1_1_print__t.html" title="WB Ptr Class: Print_t." alt="" coords="564,3213,709,3240"/>
+<area shape="rect" id="node67" href="$classgu_whiteboard_1_1_q_say__t.html" title="WB Ptr Class: QSay_t." alt="" coords="561,3264,712,3291"/>
+<area shape="rect" id="node68" href="$classgu_whiteboard_1_1_q_speech__t.html" title="WB Ptr Class: QSpeech_t." alt="" coords="551,3315,723,3341"/>
+<area shape="rect" id="node69" href="$classgu_whiteboard_1_1_say__t.html" title="WB Ptr Class: Say_t." alt="" coords="567,3365,707,3392"/>
+<area shape="rect" id="node70" href="$classgu_whiteboard_1_1_speech__t.html" title="WB Ptr Class: Speech_t." alt="" coords="555,3416,718,3443"/>
+<area shape="rect" id="node71" href="$classgu_whiteboard_1_1_wav_load__t.html" title="WB Ptr Class: WavLoad_t." alt="" coords="550,3467,723,3493"/>
+<area shape="rect" id="node73" href="$classgu_whiteboard_1_1_ball___calibration___num__t.html" title="WB Ptr Class: Ball_Calibration_Num_t." alt="" coords="569,3518,705,3559"/>
+<area shape="rect" id="node74" href="$classgu_whiteboard_1_1_ball___color___num__t.html" title="WB Ptr Class: Ball_Color_Num_t." alt="" coords="572,3583,701,3625"/>
+<area shape="rect" id="node75" href="$classgu_whiteboard_1_1_p_f___control_status___modes__t.html" title="WB Ptr Class: PF_ControlStatus_Modes_t." alt="" coords="551,3649,723,3690"/>
+<area shape="rect" id="node77" href="$classgu_whiteboard_1_1_bottom_vision_lines__t.html" title="WB Ptr Class: BottomVisionLines_t." alt="" coords="544,3714,729,3755"/>
+<area shape="rect" id="node78" href="$classgu_whiteboard_1_1_top_vision_lines__t.html" title="WB Ptr Class: TopVisionLines_t." alt="" coords="533,3780,741,3807"/>
+<area shape="rect" id="node80" href="$classgu_whiteboard_1_1_buttons__t.html" title="WB Ptr Class: Buttons_t." alt="" coords="555,3831,718,3857"/>
+<area shape="rect" id="node82" href="$classgu_whiteboard_1_1_c_ball__t.html" title="WB Ptr Class: CBall_t." alt="" coords="562,3881,711,3908"/>
+<area shape="rect" id="node83" href="$classgu_whiteboard_1_1_l_hand_gripper__t.html" title="WB Ptr Class: LHandGripper_t." alt="" coords="537,3932,736,3959"/>
+<area shape="rect" id="node84" href="$classgu_whiteboard_1_1_manually_penalized__t.html" title="WB Ptr Class: ManuallyPenalized_t." alt="" coords="524,3983,749,4009"/>
+<area shape="rect" id="node85" href="$classgu_whiteboard_1_1_player_number__t.html" title="WB Ptr Class: PlayerNumber_t." alt="" coords="537,4033,737,4060"/>
+<area shape="rect" id="node86" href="$classgu_whiteboard_1_1_r_hand_gripper__t.html" title="WB Ptr Class: RHandGripper_t." alt="" coords="537,4084,737,4111"/>
+<area shape="rect" id="node87" href="$classgu_whiteboard_1_1_teleoperation_connection__t.html" title="WB Ptr Class: TeleoperationConnection_t." alt="" coords="544,4135,729,4177"/>
+<area shape="rect" id="node88" href="$classgu_whiteboard_1_1_u_d_p_w_b_number__t.html" title="WB Ptr Class: UDPWBNumber_t." alt="" coords="530,4201,743,4228"/>
+<area shape="rect" id="node90" href="$classgu_whiteboard_1_1_channels__t.html" title="WB Ptr Class: Channels_t." alt="" coords="551,4252,723,4279"/>
+<area shape="rect" id="node92" href="$classgu_whiteboard_1_1_clocks__t.html" title="WB Ptr Class: Clocks_t." alt="" coords="557,4303,716,4329"/>
+<area shape="rect" id="node94" href="$classgu_whiteboard_1_1_count__t.html" title="WB Ptr Class: Count_t." alt="" coords="561,4353,713,4380"/>
+<area shape="rect" id="node96" href="$classgu_whiteboard_1_1_data_logger__t.html" title="WB Ptr Class: DataLogger_t." alt="" coords="544,4404,729,4431"/>
+<area shape="rect" id="node98" href="$classgu_whiteboard_1_1_differential_robot_control__t.html" title="WB Ptr Class: DifferentialRobotControl_t." alt="" coords="553,4455,721,4497"/>
+<area shape="rect" id="node99" href="$classgu_whiteboard_1_1_differential_robot_status__t.html" title="WB Ptr Class: DifferentialRobotStatus_t." alt="" coords="553,4521,721,4562"/>
+<area shape="rect" id="node101" href="$classgu_whiteboard_1_1_dominant_frequencies__t.html" title="WB Ptr Class: DominantFrequencies_t." alt="" coords="515,4587,759,4613"/>
+<area shape="rect" id="node103" href="$classgu_whiteboard_1_1_f_f_t_status__t.html" title="WB Ptr Class: FFTStatus_t." alt="" coords="547,4637,727,4664"/>
+<area shape="rect" id="node105" href="$classgu_whiteboard_1_1_f_s_m___control__t.html" title="WB Ptr Class: FSM_Control_t." alt="" coords="539,4688,734,4715"/>
+<area shape="rect" id="node106" href="$classgu_whiteboard_1_1_f_s_m___status__t.html" title="WB Ptr Class: FSM_Status_t." alt="" coords="541,4739,732,4765"/>
+<area shape="rect" id="node108" href="$classgu_whiteboard_1_1_f_s_m___names__t.html" title="WB Ptr Class: FSM_Names_t." alt="" coords="539,4789,734,4816"/>
+<area shape="rect" id="node110" href="$classgu_whiteboard_1_1_f_s_m___states__t.html" title="WB Ptr Class: FSM_States_t." alt="" coords="541,4840,732,4867"/>
+<area shape="rect" id="node112" href="$classgu_whiteboard_1_1_f_s_osighting__t.html" title="WB Ptr Class: FSOsighting_t." alt="" coords="541,4891,732,4917"/>
+<area shape="rect" id="node114" href="$classgu_whiteboard_1_1_filtered_ball_sighting__t.html" title="WB Ptr Class: FilteredBallSighting_t." alt="" coords="551,4942,723,4983"/>
+<area shape="rect" id="node116" href="$classgu_whiteboard_1_1_filtered_goal_sighting__t.html" title="WB Ptr Class: FilteredGoalSighting_t." alt="" coords="548,5007,725,5049"/>
+<area shape="rect" id="node118" href="$classgu_whiteboard_1_1_frequency_control__t.html" title="WB Ptr Class: FrequencyControl_t." alt="" coords="527,5073,746,5100"/>
+<area shape="rect" id="node119" href="$classgu_whiteboard_1_1_frequency_status__t.html" title="WB Ptr Class: FrequencyStatus_t." alt="" coords="529,5124,745,5151"/>
+<area shape="rect" id="node121" href="$classgu_whiteboard_1_1_g_c_game_state__t.html" title="WB Ptr Class: GCGameState_t." alt="" coords="535,5175,738,5201"/>
+<area shape="rect" id="node122" href="$classgu_whiteboard_1_1_u_d_p_r_n__t.html" title="WB Ptr Class: UDPRN_t." alt="" coords="554,5225,719,5252"/>
+<area shape="rect" id="node124" href="$classgu_whiteboard_1_1_giraff___interface___command__t.html" title="WB Ptr Class: Giraff_Interface_Command_t." alt="" coords="558,5277,715,5318"/>
+<area shape="rect" id="node125" href="$classgu_whiteboard_1_1_giraff___interface___status__t.html" title="WB Ptr Class: Giraff_Interface_Status_t." alt="" coords="567,5342,706,5383"/>
+<area shape="rect" id="node127" href="$classgu_whiteboard_1_1_gu_vr_teleop_vulkan_control__t.html" title="WB Ptr Class: GuVrTeleopVulkanControl_t." alt="" coords="549,5407,725,5449"/>
+<area shape="rect" id="node129" href="$classgu_whiteboard_1_1_h_a_l___head_target__t.html" title="WB Ptr Class: HAL_HeadTarget_t." alt="" coords="527,5473,747,5500"/>
+<area shape="rect" id="node131" href="$classgu_whiteboard_1_1_h_a_l___l_arm_target___ctrl__t.html" title="WB Ptr Class: HAL_LArmTarget_Ctrl_t." alt="" coords="531,5525,742,5566"/>
+<area shape="rect" id="node132" href="$classgu_whiteboard_1_1_h_a_l___l_arm_target___stat__t.html" title="WB Ptr Class: HAL_LArmTarget_Stat_t." alt="" coords="531,5590,742,5631"/>
+<area shape="rect" id="node133" href="$classgu_whiteboard_1_1_h_a_l___l_arm_target___tolr__t.html" title="WB Ptr Class: HAL_LArmTarget_Tolr_t." alt="" coords="531,5655,742,5697"/>
+<area shape="rect" id="node134" href="$classgu_whiteboard_1_1_h_a_l___r_arm_target___ctrl__t.html" title="WB Ptr Class: HAL_RArmTarget_Ctrl_t." alt="" coords="531,5721,742,5762"/>
+<area shape="rect" id="node135" href="$classgu_whiteboard_1_1_h_a_l___r_arm_target___stat__t.html" title="WB Ptr Class: HAL_RArmTarget_Stat_t." alt="" coords="531,5786,742,5827"/>
+<area shape="rect" id="node136" href="$classgu_whiteboard_1_1_h_a_l___r_arm_target___tolr__t.html" title="WB Ptr Class: HAL_RArmTarget_Tolr_t." alt="" coords="531,5851,742,5893"/>
+<area shape="rect" id="node138" href="$classgu_whiteboard_1_1_h_a_l___l_leg_target___ctrl__t.html" title="WB Ptr Class: HAL_LLegTarget_Ctrl_t." alt="" coords="533,5917,741,5958"/>
+<area shape="rect" id="node139" href="$classgu_whiteboard_1_1_h_a_l___l_leg_target___stat__t.html" title="WB Ptr Class: HAL_LLegTarget_Stat_t." alt="" coords="533,5982,741,6023"/>
+<area shape="rect" id="node140" href="$classgu_whiteboard_1_1_h_a_l___l_leg_target___tolr__t.html" title="WB Ptr Class: HAL_LLegTarget_Tolr_t." alt="" coords="533,6047,741,6089"/>
+<area shape="rect" id="node141" href="$classgu_whiteboard_1_1_h_a_l___r_leg_target___ctrl__t.html" title="WB Ptr Class: HAL_RLegTarget_Ctrl_t." alt="" coords="532,6113,741,6154"/>
+<area shape="rect" id="node142" href="$classgu_whiteboard_1_1_h_a_l___r_leg_target___stat__t.html" title="WB Ptr Class: HAL_RLegTarget_Stat_t." alt="" coords="532,6178,741,6219"/>
+<area shape="rect" id="node143" href="$classgu_whiteboard_1_1_h_a_l___r_leg_target___tolr__t.html" title="WB Ptr Class: HAL_RLegTarget_Tolr_t." alt="" coords="532,6243,741,6285"/>
+<area shape="rect" id="node145" href="$classgu_whiteboard_1_1_head_joint_sensors__t.html" title="WB Ptr Class: HeadJointSensors_t." alt="" coords="524,6309,749,6336"/>
+<area shape="rect" id="node147" href="$classgu_whiteboard_1_1_i_o_pins__t.html" title="WB Ptr Class: IOPins_t." alt="" coords="557,6360,716,6387"/>
+<area shape="rect" id="node149" href="$classgu_whiteboard_1_1_input3_d__t.html" title="WB Ptr Class: Input3D_t." alt="" coords="555,6411,718,6437"/>
+<area shape="rect" id="node151" href="$classgu_whiteboard_1_1_m_o_t_i_o_n___commands__t.html" title="WB Ptr Class: MOTION_Commands_t." alt="" coords="557,6462,717,6503"/>
+<area shape="rect" id="node153" href="$classgu_whiteboard_1_1_m_o_t_i_o_n___status__t.html" title="WB Ptr Class: MOTION_Status_t." alt="" coords="557,6527,717,6569"/>
+<area shape="rect" id="node155" href="$classgu_whiteboard_1_1_machine_filtered_lines__t.html" title="WB Ptr Class: MachineFilteredLines_t." alt="" coords="537,6593,736,6634"/>
+<area shape="rect" id="node157" href="$classgu_whiteboard_1_1_machine_filtered_localisation_vision__t.html" title="WB Ptr Class: MachineFilteredLocalisationVision_t." alt="" coords="537,6658,736,6699"/>
+<area shape="rect" id="node159" href="$classgu_whiteboard_1_1_machine_filtered_nao_vision__t.html" title="WB Ptr Class: MachineFilteredNaoVision_t." alt="" coords="537,6723,736,6765"/>
+<area shape="rect" id="node161" href="$classgu_whiteboard_1_1_memory_image_control__t.html" title="WB Ptr Class: MemoryImageControl_t." alt="" coords="542,6789,731,6830"/>
+<area shape="rect" id="node162" href="$classgu_whiteboard_1_1_memory_image_status__t.html" title="WB Ptr Class: MemoryImageStatus_t." alt="" coords="542,6854,731,6895"/>
+<area shape="rect" id="node164" href="$classgu_whiteboard_1_1_microwave_status__t.html" title="WB Ptr Class: MicrowaveStatus_t." alt="" coords="527,6920,746,6947"/>
+<area shape="rect" id="node166" href="$classgu_whiteboard_1_1_mission_priority_for_obstacles__t.html" title="WB Ptr Class: MissionPriorityForObstacles_t." alt="" coords="541,6971,733,7013"/>
+<area shape="rect" id="node168" href="$classgu_whiteboard_1_1_my_position__t.html" title="WB Ptr Class: MyPosition_t." alt="" coords="545,7037,728,7064"/>
+<area shape="rect" id="node170" href="$classgu_whiteboard_1_1_n_a_o___state__t.html" title="WB Ptr Class: NAO_State_t." alt="" coords="544,7088,729,7115"/>
+<area shape="rect" id="node172" href="$classgu_whiteboard_1_1_n_x_t___command__t.html" title="WB Ptr Class: NXT_Command_t." alt="" coords="531,7139,742,7165"/>
+<area shape="rect" id="node173" href="$classgu_whiteboard_1_1_n_x_t___status__t.html" title="WB Ptr Class: NXT_Status_t." alt="" coords="541,7189,732,7216"/>
+<area shape="rect" id="node175" href="$classgu_whiteboard_1_1_n_x_t___lights___control__t.html" title="WB Ptr Class: NXT_Lights_Control_t." alt="" coords="548,7241,725,7282"/>
+<area shape="rect" id="node177" href="$classgu_whiteboard_1_1_n_x_t___sound___control__t.html" title="WB Ptr Class: NXT_Sound_Control_t." alt="" coords="547,7306,726,7347"/>
+<area shape="rect" id="node179" href="$classgu_whiteboard_1_1_n_x_t___two___touch___status__t.html" title="WB Ptr Class: NXT_Two_Touch_Status_t." alt="" coords="553,7371,720,7413"/>
+<area shape="rect" id="node181" href="$classgu_whiteboard_1_1_nao_obstacle_direction__t.html" title="WB Ptr Class: NaoObstacleDirection_t." alt="" coords="545,7437,728,7478"/>
+<area shape="rect" id="node183" href="$classgu_whiteboard_1_1_nao_sonar_protected_walk_command__t.html" title="WB Ptr Class: NaoSonarProtectedWalkCommand_t." alt="" coords="526,7502,747,7543"/>
+<area shape="rect" id="node185" href="$classgu_whiteboard_1_1_nao_walk_command__t.html" title="WB Ptr Class: NaoWalkCommand_t." alt="" coords="521,7568,752,7595"/>
+<area shape="rect" id="node187" href="$classgu_whiteboard_1_1_nao_walk_status__t.html" title="WB Ptr Class: NaoWalkStatus_t." alt="" coords="532,7619,741,7645"/>
+<area shape="rect" id="node189" href="$classgu_whiteboard_1_1_oculus_prime___command__t.html" title="WB Ptr Class: OculusPrime_Command_t." alt="" coords="545,7670,728,7711"/>
+<area shape="rect" id="node191" href="$classgu_whiteboard_1_1_oculus___prime___command__t.html" title="WB Ptr Class: Oculus_Prime_Command_t." alt="" coords="563,7735,711,7777"/>
+<area shape="rect" id="node193" href="$classgu_whiteboard_1_1_overheating__t.html" title="WB Ptr Class: Overheating_t." alt="" coords="543,7801,731,7828"/>
+<area shape="rect" id="node195" href="$classgu_whiteboard_1_1_particle_output_map__t.html" title="WB Ptr Class: ParticleOutputMap_t." alt="" coords="541,7853,732,7894"/>
+<area shape="rect" id="node197" href="$classgu_whiteboard_1_1_s_e_n_s_o_r_s_leds_sensors__t.html" title="WB Ptr Class: SENSORSLedsSensors_t." alt="" coords="537,7918,737,7959"/>
+<area shape="rect" id="node199" href="$classgu_whiteboard_1_1_s_e_n_s_o_r_s_leg_joint_sensors__t.html" title="WB Ptr Class: SENSORSLegJointSensors_t." alt="" coords="540,7987,733,8029"/>
+<area shape="rect" id="node201" href="$classgu_whiteboard_1_1_s_e_n_s_o_r_s_leg_joint_temps__t.html" title="WB Ptr Class: SENSORSLegJointTemps_t." alt="" coords="540,8067,733,8109"/>
+<area shape="rect" id="node203" href="$classgu_whiteboard_1_1_s_e_n_s_o_r_s_sonar_sensors__t.html" title="WB Ptr Class: SENSORSSonarSensors_t." alt="" coords="534,8147,739,8189"/>
+<area shape="rect" id="node205" href="$classgu_whiteboard_1_1_s_e_n_s_o_r_s_torso_joint_sensors__t.html" title="WB Ptr Class: SENSORSTorsoJointSensors_t." alt="" coords="535,8227,739,8269"/>
+<area shape="rect" id="node207" href="$classgu_whiteboard_1_1_s_e_n_s_o_r_s_torso_joint_temps__t.html" title="WB Ptr Class: SENSORSTorsoJointTemps_t." alt="" coords="535,8307,739,8349"/>
+<area shape="rect" id="node209" href="$classgu_whiteboard_1_1_sensors_body_sensors__t.html" title="WB Ptr Class: SensorsBodySensors_t." alt="" coords="545,8379,729,8421"/>
+<area shape="rect" id="node211" href="$classgu_whiteboard_1_1_sensors_foot_sensors__t.html" title="WB Ptr Class: SensorsFootSensors_t." alt="" coords="546,8445,727,8486"/>
+<area shape="rect" id="node213" href="$classgu_whiteboard_1_1_sensors_hand_sensors__t.html" title="WB Ptr Class: SensorsHandSensors_t." alt="" coords="543,8510,730,8551"/>
+<area shape="rect" id="node215" href="$classgu_whiteboard_1_1_sensors_head_sensors__t.html" title="WB Ptr Class: SensorsHeadSensors_t." alt="" coords="543,8575,730,8617"/>
+<area shape="rect" id="node217" href="$classgu_whiteboard_1_1_sensors_joint_current__t.html" title="WB Ptr Class: SensorsJointCurrent_t." alt="" coords="545,8647,728,8689"/>
+<area shape="rect" id="node219" href="$classgu_whiteboard_1_1_switch_subsumption_traffic_lights__t.html" title="WB Ptr Class: SwitchSubsumptionTrafficLights_t." alt="" coords="525,8727,748,8769"/>
+<area shape="rect" id="node221" href="$classgu_whiteboard_1_1_switch_subsumption__t.html" title="WB Ptr Class: SwitchSubsumption_t." alt="" coords="519,8807,754,8833"/>
+<area shape="rect" id="node223" href="$classgu_whiteboard_1_1_teleoperation_control_status__t.html" title="WB Ptr Class: TeleoperationControlStatus_t." alt="" coords="544,8871,729,8913"/>
+<area shape="rect" id="node225" href="$classgu_whiteboard_1_1_teleoperation_control_v_r__t.html" title="WB Ptr Class: TeleoperationControlVR_t." alt="" coords="544,8951,729,8993"/>
+<area shape="rect" id="node227" href="$classgu_whiteboard_1_1_teleoperation_control__t.html" title="WB Ptr Class: TeleoperationControl_t." alt="" coords="544,9031,729,9073"/>
+<area shape="rect" id="node229" href="$classgu_whiteboard_1_1_teleoperation_status__t.html" title="WB Ptr Class: TeleoperationStatus_t." alt="" coords="544,9111,729,9153"/>
+<area shape="rect" id="node231" href="$classgu_whiteboard_1_1_temperature_sensors__t.html" title="WB Ptr Class: TemperatureSensors_t." alt="" coords="547,9183,727,9225"/>
+<area shape="rect" id="node233" href="$classgu_whiteboard_1_1_top_particles__t.html" title="WB Ptr Class: TopParticles_t." alt="" coords="541,9256,732,9283"/>
+<area shape="rect" id="node235" href="$classgu_whiteboard_1_1_toto_doing_motion__t.html" title="WB Ptr Class: TotoDoingMotion_t." alt="" coords="529,9321,745,9348"/>
+<area shape="rect" id="node237" href="$classgu_whiteboard_1_1_vision_ball__t.html" title="WB Ptr Class: VisionBall_t." alt="" coords="549,9383,725,9409"/>
+<area shape="rect" id="node239" href="$classgu_whiteboard_1_1_vision_control__t.html" title="WB Ptr Class: VisionControl_t." alt="" coords="539,9433,734,9460"/>
+<area shape="rect" id="node240" href="$classgu_whiteboard_1_1_vision_status__t.html" title="WB Ptr Class: VisionStatus_t." alt="" coords="541,9484,733,9511"/>
+<area shape="rect" id="node242" href="$classgu_whiteboard_1_1_vision_detection_balls__t.html" title="WB Ptr Class: VisionDetectionBalls_t." alt="" coords="537,9535,736,9577"/>
+<area shape="rect" id="node244" href="$classgu_whiteboard_1_1_vision_detection_features__t.html" title="WB Ptr Class: VisionDetectionFeatures_t." alt="" coords="537,9611,736,9653"/>
+<area shape="rect" id="node246" href="$classgu_whiteboard_1_1_vision_detection_goals__t.html" title="WB Ptr Class: VisionDetectionGoals_t." alt="" coords="537,9691,736,9733"/>
+<area shape="rect" id="node248" href="$classgu_whiteboard_1_1_vision_detection_horizons__t.html" title="WB Ptr Class: VisionDetectionHorizons_t." alt="" coords="537,9771,736,9813"/>
+<area shape="rect" id="node250" href="$classgu_whiteboard_1_1_vision_detection_lines__t.html" title="WB Ptr Class: VisionDetectionLines_t." alt="" coords="537,9851,736,9893"/>
+<area shape="rect" id="node252" href="$classgu_whiteboard_1_1_vision_face__t.html" title="WB Ptr Class: VisionFace_t." alt="" coords="545,9939,728,9965"/>
+<area shape="rect" id="node254" href="$classgu_whiteboard_1_1_vision_field_features__t.html" title="WB Ptr Class: VisionFieldFeatures_t." alt="" coords="551,10003,722,10045"/>
+<area shape="rect" id="node256" href="$classgu_whiteboard_1_1_vision_goals__t.html" title="WB Ptr Class: VisionGoals_t." alt="" coords="543,10076,731,10103"/>
+<area shape="rect" id="node258" href="$classgu_whiteboard_1_1_vision_robots__t.html" title="WB Ptr Class: VisionRobots_t." alt="" coords="539,10141,734,10168"/>
+<area shape="rect" id="node260" href="$classgu_whiteboard_1_1_volume_control__t.html" title="WB Ptr Class: VolumeControl_t." alt="" coords="535,10207,738,10233"/>
+<area shape="rect" id="node262" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__bridge__t.html" title="WB Ptr Class: WEBOTS_NXT_bridge_t." alt="" coords="555,10271,718,10313"/>
+<area shape="rect" id="node264" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__bumper__t.html" title="WB Ptr Class: WEBOTS_NXT_bumper_t." alt="" coords="555,10351,718,10393"/>
+<area shape="rect" id="node266" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__camera__t.html" title="WB Ptr Class: WEBOTS_NXT_camera_t." alt="" coords="555,10431,718,10473"/>
+<area shape="rect" id="node268" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__color_line__walk__t.html" title="WB Ptr Class: WEBOTS_NXT_colorLine_walk_t." alt="" coords="555,10511,718,10553"/>
+<area shape="rect" id="node270" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__dead_reakoning__walk__t.html" title="WB Ptr Class: WEBOTS_NXT_deadReakoning_walk_t." alt="" coords="538,10591,735,10633"/>
+<area shape="rect" id="node272" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__encoders__t.html" title="WB Ptr Class: WEBOTS_NXT_encoders_t." alt="" coords="555,10671,718,10713"/>
+<area shape="rect" id="node274" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__grid_motions__t.html" title="WB Ptr Class: WEBOTS_NXT_gridMotions_t." alt="" coords="555,10751,718,10793"/>
+<area shape="rect" id="node276" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__vector__bridge__t.html" title="WB Ptr Class: WEBOTS_NXT_vector_bridge_t." alt="" coords="555,10831,718,10873"/>
+<area shape="rect" id="node278" href="$classgu_whiteboard_1_1_w_e_b_o_t_s___n_x_t__walk__is_running__t.html" title="WB Ptr Class: WEBOTS_NXT_walk_isRunning_t." alt="" coords="554,10911,719,10953"/>
+<area shape="rect" id="node280" href="$classgu_whiteboard_1_1_walk_data__t.html" title="WB Ptr Class: WalkData_t." alt="" coords="549,10991,724,11017"/>
+<area shape="rect" id="node282" href="$classgu_whiteboard_1_1_x_eyes_pos__t.html" title="WB Ptr Class: XEyesPos_t." alt="" coords="547,11056,726,11083"/>
+</map>

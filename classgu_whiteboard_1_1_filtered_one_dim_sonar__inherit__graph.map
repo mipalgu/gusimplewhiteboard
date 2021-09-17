@@ -1,0 +1,4 @@
+<map id="guWhiteboard::FilteredOneDimSonar" name="guWhiteboard::FilteredOneDimSonar">
+<area shape="rect" id="node1" title="Class for for one filtered sonar message." alt="" coords="5,160,180,369"/>
+<area shape="rect" id="node2" href="$structwb__filteredsonarobject.html" title="Simple sonar information for the whiteboard." alt="" coords="7,5,178,112"/>
+</map>

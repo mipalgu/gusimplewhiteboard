@@ -1,0 +1,7 @@
+<map id="SimpleWhiteboardTestPlainC" name="SimpleWhiteboardTestPlainC">
+<area shape="rect" id="node1" title="plain c code testing of the simple whiteboard implementation" alt="" coords="54,777,245,928"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,601,101,678"/>
+<area shape="rect" id="node3" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="203,564,333,715"/>
+<area shape="rect" id="node4" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="83,321,258,501"/>
+<area shape="rect" id="node5" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="95,5,246,229"/>
+</map>

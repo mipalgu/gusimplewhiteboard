@@ -1,0 +1,5 @@
+<map id="guWhiteboard::HalLegTarget" name="guWhiteboard::HalLegTarget">
+<area shape="rect" id="node1" title="Class for moving a SINGLE robotic leg with up to 6 degrees of freedom using local coords of each join..." alt="" coords="85,380,271,604"/>
+<area shape="rect" id="node2" href="$structwb__hal__legtarget.html" title="HalLegTarget c struct." alt="" coords="5,5,156,332"/>
+<area shape="rect" id="node3" href="$structwb__hal__leg__target.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="180,57,371,281"/>
+</map>

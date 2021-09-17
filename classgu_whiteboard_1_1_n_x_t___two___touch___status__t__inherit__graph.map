@@ -1,0 +1,5 @@
+<map id="guWhiteboard::NXT_Two_Touch_Status_t" name="guWhiteboard::NXT_Two_Touch_Status_t">
+<area shape="rect" id="node1" title="WB Ptr Class: NXT_Two_Touch_Status_t." alt="" coords="5,623,204,729"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="20,409,189,575"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="29,5,181,361"/>
+</map>

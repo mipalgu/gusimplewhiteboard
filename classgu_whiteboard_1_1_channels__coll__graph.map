@@ -1,0 +1,4 @@
+<map id="guWhiteboard::Channels" name="guWhiteboard::Channels">
+<area shape="rect" id="node1" title="Class which emulates the 2&#45;process channel synchronisation system from UPPAAL." alt="" coords="7,131,168,311"/>
+<area shape="rect" id="node2" href="$structwb__channels.html" title="UPPAAL style synchronisation channels." alt="" coords="5,5,169,83"/>
+</map>

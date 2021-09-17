@@ -1,0 +1,202 @@
+<map id="guwhiteboardposter.h" name="guwhiteboardposter.h">
+<area shape="rect" id="node1" title=" " alt="" coords="7551,5,7696,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="4635,177,4690,203"/>
+<area shape="rect" id="node3" title=" " alt="" coords="855,87,902,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="926,87,1001,114"/>
+<area shape="rect" id="node5" href="$_g_c_game_state_8hpp.html" title=" " alt="" coords="5892,266,6022,293"/>
+<area shape="rect" id="node11" href="$_sensors_hand_sensors_8hpp.html" title=" " alt="" coords="12253,266,12426,293"/>
+<area shape="rect" id="node14" href="$_sensors_head_sensors_8hpp.html" title=" " alt="" coords="12872,266,13045,293"/>
+<area shape="rect" id="node16" href="$_m_o_t_i_o_n___commands_8hpp.html" title=" " alt="" coords="1026,87,1198,114"/>
+<area shape="rect" id="node18" href="$_m_o_t_i_o_n___status_8hpp.html" title=" " alt="" coords="686,87,830,114"/>
+<area shape="rect" id="node19" href="$_h_a_l___head_target_8hpp.html" title=" " alt="" coords="5264,266,5412,293"/>
+<area shape="rect" id="node21" href="$_sensors_foot_sensors_8hpp.html" title=" " alt="" coords="8412,266,8580,293"/>
+<area shape="rect" id="node24" href="$_sensors_body_sensors_8hpp.html" title=" " alt="" coords="7854,266,8025,293"/>
+<area shape="rect" id="node26" href="$_s_e_n_s_o_r_s_leds_sensors_8hpp.html" title=" " alt="" coords="2988,266,3174,293"/>
+<area shape="rect" id="node29" href="$_s_e_n_s_o_r_s_leg_joint_temps_8hpp.html" title=" " alt="" coords="8049,266,8249,293"/>
+<area shape="rect" id="node31" href="$_s_e_n_s_o_r_s_torso_joint_temps_8hpp.html" title=" " alt="" coords="7180,266,7390,293"/>
+<area shape="rect" id="node33" href="$_s_e_n_s_o_r_s_leg_joint_sensors_8hpp.html" title=" " alt="" coords="7622,266,7830,293"/>
+<area shape="rect" id="node35" href="$_s_e_n_s_o_r_s_torso_joint_sensors_8hpp.html" title=" " alt="" coords="6764,266,6982,293"/>
+<area shape="rect" id="node37" href="$_s_e_n_s_o_r_s_sonar_sensors_8hpp.html" title=" " alt="" coords="2666,87,2858,114"/>
+<area shape="rect" id="node39" href="$_f_s_m_control_status_8hpp.html" title=" " alt="" coords="1412,266,1566,293"/>
+<area shape="rect" id="node43" href="$gusimplewhiteboard_8h.html" title=" " alt="" coords="910,437,1060,479"/>
+<area shape="rect" id="node46" href="$_f_s_m_names_8hpp.html" title=" " alt="" coords="1527,87,1643,114"/>
+<area shape="rect" id="node48" href="$_filtered_array_one_dim_objects_8hpp.html" title=" " alt="" coords="13904,266,14114,293"/>
+<area shape="rect" id="node51" href="$_n_a_o___state_8hpp.html" title=" " alt="" coords="1590,266,1703,293"/>
+<area shape="rect" id="node53" href="$_vision_control_status_8hpp.html" title=" " alt="" coords="6046,266,6207,293"/>
+<area shape="rect" id="node55" href="$_f_f_t_status_8hpp.html" title=" " alt="" coords="319,266,427,293"/>
+<area shape="rect" id="node60" href="$_filtered_array_one_dim_sonar_8hpp.html" title=" " alt="" coords="2364,266,2564,293"/>
+<area shape="rect" id="node63" href="$_top_particles_8hpp.html" title=" " alt="" coords="6435,266,6554,293"/>
+<area shape="rect" id="node66" href="$_filtered_array_ball_sightings_8hpp.html" title=" " alt="" coords="14530,266,14725,293"/>
+<area shape="rect" id="node68" href="$_w_e_b_o_t_s___n_x_t__bridge_8hpp.html" title=" " alt="" coords="6232,266,6410,293"/>
+<area shape="rect" id="node69" href="$_w_e_b_o_t_s___n_x_t__encoders_8hpp.html" title=" " alt="" coords="7314,87,7510,114"/>
+<area shape="rect" id="node71" href="$_w_e_b_o_t_s___n_x_t__camera_8hpp.html" title=" " alt="" coords="5724,87,5910,114"/>
+<area shape="rect" id="node72" href="$_w_e_b_o_t_s___n_x_t__walk__is_running_8hpp.html" title=" " alt="" coords="5934,87,6169,114"/>
+<area shape="rect" id="node73" href="$_w_e_b_o_t_s___n_x_t__dead_reakoning__walk_8hpp.html" title=" " alt="" coords="6193,80,6401,121"/>
+<area shape="rect" id="node74" href="$_w_e_b_o_t_s___n_x_t__color_line__walk_8hpp.html" title=" " alt="" coords="6426,80,6598,121"/>
+<area shape="rect" id="node75" href="$_w_e_b_o_t_s___n_x_t__grid_motions_8hpp.html" title=" " alt="" coords="6622,87,6833,114"/>
+<area shape="rect" id="node76" href="$_vision_ball_8hpp.html" title=" " alt="" coords="4332,87,4436,114"/>
+<area shape="rect" id="node81" href="$_vision_goals_8hpp.html" title=" " alt="" coords="4755,87,4871,114"/>
+<area shape="rect" id="node83" href="$_walk_data_8hpp.html" title=" " alt="" coords="4628,87,4731,114"/>
+<area shape="rect" id="node84" href="$_teleoperation_control_status_8hpp.html" title=" " alt="" coords="1848,87,2050,114"/>
+<area shape="rect" id="node86" href="$_w_e_b_o_t_s___n_x_t__bumper_8hpp.html" title=" " alt="" coords="6857,87,7044,114"/>
+<area shape="rect" id="node87" href="$_w_e_b_o_t_s___n_x_t__vector__bridge_8hpp.html" title=" " alt="" coords="7068,87,7289,114"/>
+<area shape="rect" id="node88" href="$_vision_lines_8hpp.html" title=" " alt="" coords="8273,266,8388,293"/>
+<area shape="rect" id="node91" href="$_differential_robot_control_status_8hpp.html" title=" " alt="" coords="2180,259,2339,300"/>
+<area shape="rect" id="node94" href="$_point2_d_8hpp.html" title=" " alt="" coords="12451,266,12543,293"/>
+<area shape="rect" id="node96" href="$_f_s_m_state_8hpp.html" title=" " alt="" coords="1667,87,1772,114"/>
+<area shape="rect" id="node97" href="$_giraff___main_serial_interface_8hpp.html" title=" " alt="" coords="5436,266,5632,293"/>
+<area shape="rect" id="node100" href="$_n_x_t___interface_8hpp.html" title=" " alt="" coords="4952,266,5082,293"/>
+<area shape="rect" id="node102" href="$_a_p_m___interface_8hpp.html" title=" " alt="" coords="5106,266,5240,293"/>
+<area shape="rect" id="node104" href="$_oculus_prime_interface_8hpp.html" title=" " alt="" coords="2930,87,3102,114"/>
+<area shape="rect" id="node106" href="$_input3_d_8hpp.html" title=" " alt="" coords="12568,266,12658,293"/>
+<area shape="rect" id="node108" href="$_oculus___prime_serial_interface_8hpp.html" title=" " alt="" coords="5656,266,5868,293"/>
+<area shape="rect" id="node110" href="$_i_o_pins_8hpp.html" title=" " alt="" coords="1250,266,1336,293"/>
+<area shape="rect" id="node112" href="$_n_x_t___two___touch___status_8hpp.html" title=" " alt="" coords="3234,266,3427,293"/>
+<area shape="rect" id="node114" href="$_n_x_t___sound___control_8hpp.html" title=" " alt="" coords="3521,266,3686,293"/>
+<area shape="rect" id="node116" href="$_n_x_t___lights___control_8hpp.html" title=" " alt="" coords="3711,266,3875,293"/>
+<area shape="rect" id="node118" href="$_clocks_8hpp.html" title=" " alt="" coords="3899,266,3986,293"/>
+<area shape="rect" id="node120" href="$_channels_8hpp.html" title=" " alt="" coords="1126,266,1226,293"/>
+<area shape="rect" id="node122" href="$_switch_subsumption_8hpp.html" title=" " alt="" coords="1993,266,2156,293"/>
+<area shape="rect" id="node124" href="$_toto_doing_motion_8hpp.html" title=" " alt="" coords="2125,87,2269,114"/>
+<area shape="rect" id="node126" href="$_count_8hpp.html" title=" " alt="" coords="11710,266,11790,293"/>
+<area shape="rect" id="node128" href="$_switch_subsumption_traffic_lights_8hpp.html" title=" " alt="" coords="4754,259,4928,300"/>
+<area shape="rect" id="node130" href="$_hal_arm_target_8hpp.html" title=" " alt="" coords="11952,266,12079,293"/>
+<area shape="rect" id="node132" href="$_vision_field_features_8hpp.html" title=" " alt="" coords="6578,266,6739,293"/>
+<area shape="rect" id="node135" href="$_vision_robots_8hpp.html" title=" " alt="" coords="4064,87,4186,114"/>
+<area shape="rect" id="node138" href="$_vision_detection_horizons_8hpp.html" title=" " alt="" coords="15148,266,15336,293"/>
+<area shape="rect" id="node141" href="$_nao_walk_command_8hpp.html" title=" " alt="" coords="11332,266,11491,293"/>
+<area shape="rect" id="node143" href="$_nao_walk_status_8hpp.html" title=" " alt="" coords="13742,266,13879,293"/>
+<area shape="rect" id="node146" href="$_hal_leg_target_8hpp.html" title=" " alt="" coords="12104,266,12229,293"/>
+<area shape="rect" id="node148" href="$_vision_detection_goals_8hpp.html" title=" " alt="" coords="14138,266,14309,293"/>
+<area shape="rect" id="node151" href="$_teleoperation_control_8hpp.html" title=" " alt="" coords="12682,266,12848,293"/>
+<area shape="rect" id="node153" href="$_teleoperation_status_8hpp.html" title=" " alt="" coords="13069,266,13232,293"/>
+<area shape="rect" id="node155" href="$_vision_detection_balls_8hpp.html" title=" " alt="" coords="14958,266,15124,293"/>
+<area shape="rect" id="node158" href="$_teleoperation_control_v_r_8hpp.html" title=" " alt="" coords="7415,266,7598,293"/>
+<area shape="rect" id="node160" href="$_machine_filtered_vision_8hpp.html" title=" " alt="" coords="13371,266,13546,293"/>
+<area shape="rect" id="node162" href="$_microwave_status_8hpp.html" title=" " alt="" coords="13570,266,13717,293"/>
+<area shape="rect" id="node164" href="$_buttons_8hpp.html" title=" " alt="" coords="13256,266,13346,293"/>
+<area shape="rect" id="node166" href="$_machine_filtered_localisation_vision_8hpp.html" title=" " alt="" coords="14749,259,14933,300"/>
+<area shape="rect" id="node169" href="$_nao_joint_list_float_8hpp.html" title=" " alt="" coords="7006,266,7156,293"/>
+<area shape="rect" id="node171" href="$_data_logger_8hpp.html" title=" " alt="" coords="11815,266,11928,293"/>
+<area shape="rect" id="node173" href="$_machine_filtered_lines_8hpp.html" title=" " alt="" coords="11516,266,11686,293"/>
+<area shape="rect" id="node176" href="$_location_8hpp.html" title=" " alt="" coords="17338,266,17434,293"/>
+<area shape="rect" id="node181" href="$_nao_sonar_protected_walk_command_8hpp.html" title=" " alt="" coords="10862,266,11110,293"/>
+<area shape="rect" id="node183" href="$_nao_obstacle_direction_8hpp.html" title=" " alt="" coords="11134,266,11308,293"/>
+<area shape="rect" id="node185" href="$_dominant_frequencies_8hpp.html" title=" " alt="" coords="14334,266,14506,293"/>
+<area shape="rect" id="node188" href="$_mission_priority_for_obstacles_8hpp.html" title=" " alt="" coords="8604,266,8814,293"/>
+<area shape="rect" id="node189" href="$_frequency_limits_8hpp.html" title=" " alt="" coords="8838,266,8980,293"/>
+<area shape="rect" id="node190" href="$_head_joint_sensors_8hpp.html" title=" " alt="" coords="10495,266,10648,293"/>
+<area shape="rect" id="node191" href="$_adjust_position_confidence_8hpp.html" title=" " alt="" coords="10045,266,10240,293"/>
+<area shape="rect" id="node192" href="$_gu_vr_teleop_vulkan_control_8hpp.html" title=" " alt="" coords="9472,266,9668,293"/>
+<area shape="rect" id="node193" href="$_temperature_sensors_8hpp.html" title=" " alt="" coords="10672,266,10839,293"/>
+<area shape="rect" id="node194" href="$_overheating_8hpp.html" title=" " alt="" coords="9139,266,9255,293"/>
+<area shape="rect" id="node195" href="$_ball_position_8hpp.html" title=" " alt="" coords="9693,266,9808,293"/>
+<area shape="rect" id="node196" href="$_memory_image_control_status_8hpp.html" title=" " alt="" coords="10264,266,10471,293"/>
+<area shape="rect" id="node197" href="$_my_position_8hpp.html" title=" " alt="" coords="9004,266,9115,293"/>
+<area shape="rect" id="node198" href="$_vision_detection_lines_8hpp.html" title=" " alt="" coords="9279,266,9448,293"/>
+<area shape="rect" id="node199" href="$_vision_detection_features_8hpp.html" title=" " alt="" coords="9832,266,10020,293"/>
+<area shape="rect" id="node200" href="$guwhiteboardtypelist__c__generated_8h.html" title=" " alt="" coords="1159,169,1299,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="9980,355,10040,382"/>
+<area shape="rect" id="node7" title=" " alt="" coords="11908,445,11972,471"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3560,527,3647,553"/>
+<area shape="rect" id="node9" title=" " alt="" coords="9582,355,9652,382"/>
+<area shape="rect" id="node10" title=" " alt="" coords="9459,445,9530,471"/>
+<area shape="rect" id="node12" title=" " alt="" coords="10510,355,10574,382"/>
+<area shape="rect" id="node13" href="$wb__sensors__hand__sensors_8h.html" title=" " alt="" coords="12300,355,12491,382"/>
+<area shape="rect" id="node15" href="$wb__sensors__head__sensors_8h.html" title=" " alt="" coords="13164,355,13355,382"/>
+<area shape="rect" id="node17" href="$_m_o_t_i_o_n___interface_8h.html" title=" " alt="" coords="940,177,1083,203"/>
+<area shape="rect" id="node20" href="$wb__hal__headtarget_8h.html" title=" " alt="" coords="5124,355,5265,382"/>
+<area shape="rect" id="node22" href="$wb__sensors__foot__sensors_8h.html" title=" " alt="" coords="9273,355,9457,382"/>
+<area shape="rect" id="node23" title=" " alt="" coords="7837,355,7893,382"/>
+<area shape="rect" id="node25" href="$wb__sensors__body__sensors_8h.html" title=" " alt="" coords="8430,355,8620,382"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3012,355,3080,382"/>
+<area shape="rect" id="node28" href="$wb__sensors__leds_8h.html" title=" " alt="" coords="2769,355,2902,382"/>
+<area shape="rect" id="node30" href="$wb__sensors__legjointtemps_8h.html" title=" " alt="" coords="8694,355,8881,382"/>
+<area shape="rect" id="node32" href="$wb__sensors__torsojointtemps_8h.html" title=" " alt="" coords="7564,355,7763,382"/>
+<area shape="rect" id="node34" href="$wb__sensors__legjointsensors_8h.html" title=" " alt="" coords="8159,355,8355,382"/>
+<area shape="rect" id="node36" href="$wb__sensors__torsojointsensors_8h.html" title=" " alt="" coords="7045,355,7253,382"/>
+<area shape="rect" id="node38" href="$wb__sensors__sonar_8h.html" title=" " alt="" coords="2636,177,2777,203"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2926,355,2988,382"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2690,355,2744,382"/>
+<area shape="rect" id="node42" href="$wb__fsm__control__status_8h.html" title=" " alt="" coords="902,355,1068,382"/>
+<area shape="rect" id="node44" href="$wb__fsm__state__status_8h.html" title=" " alt="" coords="720,355,877,382"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1144,355,1207,382"/>
+<area shape="rect" id="node47" href="$_f_s_m_control_status_8h.html" title=" " alt="" coords="1526,177,1665,203"/>
+<area shape="rect" id="node49" href="$wb__filtered__arrayonedimobjects_8h.html" title=" " alt="" coords="14646,355,14860,382"/>
+<area shape="rect" id="node50" href="$_filtered_vision_object_8h.html" title=" " alt="" coords="15274,355,15424,382"/>
+<area shape="rect" id="node52" href="$wb__nao__state_8h.html" title=" " alt="" coords="1283,355,1396,382"/>
+<area shape="rect" id="node54" href="$wb__vision__control__status_8h.html" title=" " alt="" coords="5924,355,6102,382"/>
+<area shape="rect" id="node56" title=" " alt="" coords="160,355,226,382"/>
+<area shape="rect" id="node57" title=" " alt="" coords="71,355,136,382"/>
+<area shape="rect" id="node58" title=" " alt="" coords="119,445,184,471"/>
+<area shape="rect" id="node59" href="$wb__fft__frequencies_8h.html" title="gusimplewhiteboard" alt="" coords="249,355,390,382"/>
+<area shape="rect" id="node61" href="$_filtered_one_dim_sonar_8h.html" title=" " alt="" coords="2155,348,2332,389"/>
+<area shape="rect" id="node62" href="$wb__arrayoffilteredsonarobjects_8h.html" title="gusimplewhiteboard" alt="" coords="2356,355,2563,382"/>
+<area shape="rect" id="node64" href="$wb__top__particles_8h.html" title=" " alt="" coords="6278,355,6409,382"/>
+<area shape="rect" id="node65" href="$_particle_position_8h.html" title=" " alt="" coords="6433,355,6556,382"/>
+<area shape="rect" id="node67" href="$wb__filtered__arrayballsightings_8h.html" title=" " alt="" coords="15952,355,16154,382"/>
+<area shape="rect" id="node70" href="$_w_e_b_o_t_s___n_x_t__bridge_8h.html" title=" " alt="" coords="6430,177,6594,203"/>
+<area shape="rect" id="node77" title=" " alt="" coords="4536,177,4610,203"/>
+<area shape="rect" id="node78" title=" " alt="" coords="4322,355,4438,382"/>
+<area shape="rect" id="node79" href="$wb__ball_8h.html" title=" " alt="" coords="4222,355,4298,382"/>
+<area shape="rect" id="node80" href="$_vision_control_status_8h.html" title=" " alt="" coords="4365,177,4512,203"/>
+<area shape="rect" id="node82" href="$wb__goal_8h.html" title=" " alt="" coords="4513,355,4593,382"/>
+<area shape="rect" id="node85" href="$wb__teleoperation_8h.html" title=" " alt="" coords="1421,355,1552,382"/>
+<area shape="rect" id="node89" href="$wb__vision__lines_8h.html" title=" " alt="" coords="9074,355,9198,382"/>
+<area shape="rect" id="node90" href="$_vision_line_8h.html" title=" " alt="" coords="8905,355,8998,382"/>
+<area shape="rect" id="node92" title=" " alt="" coords="3424,355,3487,382"/>
+<area shape="rect" id="node93" href="$wb__differential__robot_8h.html" title=" " alt="" coords="1878,355,2028,382"/>
+<area shape="rect" id="node95" href="$wb__point2d_8h.html" title=" " alt="" coords="12566,355,12665,382"/>
+<area shape="rect" id="node98" href="$wb__giraff__main__serial_8h.html" title=" " alt="" coords="5289,355,5446,382"/>
+<area shape="rect" id="node99" title=" " alt="" coords="5470,355,5553,382"/>
+<area shape="rect" id="node101" href="$wb__nxt__interface_8h.html" title=" " alt="" coords="4806,355,4937,382"/>
+<area shape="rect" id="node103" href="$wb__apm__interface_8h.html" title=" " alt="" coords="4961,355,5100,382"/>
+<area shape="rect" id="node105" href="$wb__oculus__prime__interface_8h.html" title=" " alt="" coords="2860,177,3051,203"/>
+<area shape="rect" id="node107" href="$wb__input3d_8h.html" title=" " alt="" coords="12740,355,12838,382"/>
+<area shape="rect" id="node109" href="$wb__oculus__prime__serial_8h.html" title=" " alt="" coords="5577,355,5748,382"/>
+<area shape="rect" id="node111" href="$wb__io__pins_8h.html" title=" " alt="" coords="598,355,695,382"/>
+<area shape="rect" id="node113" href="$wb__buttons__status_8h.html" title=" " alt="" coords="3258,355,3400,382"/>
+<area shape="rect" id="node115" href="$wb__sound_8h.html" title=" " alt="" coords="3562,355,3653,382"/>
+<area shape="rect" id="node117" href="$wb__lights_8h.html" title=" " alt="" coords="3779,355,3866,382"/>
+<area shape="rect" id="node119" href="$wb__clocks_8h.html" title=" " alt="" coords="3942,355,4036,382"/>
+<area shape="rect" id="node121" href="$wb__channels_8h.html" title=" " alt="" coords="466,355,574,382"/>
+<area shape="rect" id="node123" href="$wb__switch__subsumption_8h.html" title=" " alt="" coords="1627,355,1802,382"/>
+<area shape="rect" id="node125" href="$_switch_subsumption_8h.html" title=" " alt="" coords="2062,177,2210,203"/>
+<area shape="rect" id="node127" href="$wb__count_8h.html" title=" " alt="" coords="11508,355,11596,382"/>
+<area shape="rect" id="node129" href="$wb__switch__subsumption__traffic__lights_8h.html" title=" " alt="" coords="4617,348,4782,389"/>
+<area shape="rect" id="node131" href="$wb__hal__arm__target_8h.html" title=" " alt="" coords="11868,355,12011,382"/>
+<area shape="rect" id="node133" href="$wb__vision__field__features_8h.html" title=" " alt="" coords="6580,355,6755,382"/>
+<area shape="rect" id="node134" href="$_vision_field_feature_8h.html" title=" " alt="" coords="6779,355,6919,382"/>
+<area shape="rect" id="node136" title=" " alt="" coords="3965,177,4037,203"/>
+<area shape="rect" id="node137" href="$wb__robot_8h.html" title=" " alt="" coords="4112,355,4197,382"/>
+<area shape="rect" id="node139" href="$wb__vision__detection__horizons_8h.html" title=" " alt="" coords="17188,348,17328,389"/>
+<area shape="rect" id="node140" href="$_vision_detection_horizon_8h.html" title=" " alt="" coords="16946,355,17112,382"/>
+<area shape="rect" id="node142" href="$wb__nao__walk__command_8h.html" title=" " alt="" coords="10914,355,11088,382"/>
+<area shape="rect" id="node144" href="$wb__nao__walk__status_8h.html" title=" " alt="" coords="14417,355,14572,382"/>
+<area shape="rect" id="node145" href="$_odometry_8h.html" title=" " alt="" coords="14254,355,14342,382"/>
+<area shape="rect" id="node147" href="$wb__hal__leg__target_8h.html" title=" " alt="" coords="12087,355,12224,382"/>
+<area shape="rect" id="node149" href="$wb__vision__detection__goals_8h.html" title=" " alt="" coords="14935,348,15075,389"/>
+<area shape="rect" id="node150" href="$_vision_detection_goal_8h.html" title=" " alt="" coords="15099,355,15250,382"/>
+<area shape="rect" id="node152" href="$wb__teleoperation__control_8h.html" title=" " alt="" coords="12913,355,13089,382"/>
+<area shape="rect" id="node154" href="$wb__teleoperation__status_8h.html" title=" " alt="" coords="13430,355,13604,382"/>
+<area shape="rect" id="node156" href="$wb__vision__detection__balls_8h.html" title=" " alt="" coords="16782,348,16922,389"/>
+<area shape="rect" id="node157" href="$_vision_detection_ball_8h.html" title=" " alt="" coords="16560,355,16706,382"/>
+<area shape="rect" id="node159" href="$wb__teleoperation__control__v__r_8h.html" title=" " alt="" coords="7916,348,8083,389"/>
+<area shape="rect" id="node161" href="$wb__machine__filtered__vision_8h.html" title=" " alt="" coords="13852,348,13992,389"/>
+<area shape="rect" id="node163" href="$wb__microwave__status_8h.html" title=" " alt="" coords="14068,355,14230,382"/>
+<area shape="rect" id="node165" href="$wb__buttons_8h.html" title=" " alt="" coords="13678,355,13777,382"/>
+<area shape="rect" id="node167" href="$wb__machine__filtered__localisation__vision_8h.html" title=" " alt="" coords="16391,348,16536,389"/>
+<area shape="rect" id="node168" href="$_landmark_sighting_8h.html" title=" " alt="" coords="16178,355,16315,382"/>
+<area shape="rect" id="node170" href="$wb__nao__joint__list__float_8h.html" title=" " alt="" coords="7328,355,7490,382"/>
+<area shape="rect" id="node172" href="$wb__data__logger_8h.html" title=" " alt="" coords="11670,355,11793,382"/>
+<area shape="rect" id="node174" href="$wb__machine__filtered__lines_8h.html" title=" " alt="" coords="11292,348,11432,389"/>
+<area shape="rect" id="node175" href="$_line_sighting_8h.html" title=" " alt="" coords="11113,355,11217,382"/>
+<area shape="rect" id="node177" href="$wb__location_8h.html" title=" " alt="" coords="17494,355,17596,382"/>
+<area shape="rect" id="node178" title=" " alt="" coords="17473,445,17593,471"/>
+<area shape="rect" id="node179" title=" " alt="" coords="17618,445,17816,471"/>
+<area shape="rect" id="node180" title=" " alt="" coords="17353,355,17420,382"/>
+<area shape="rect" id="node182" href="$wb__nao__sonar__protected__walk__command_8h.html" title=" " alt="" coords="10319,348,10486,389"/>
+<area shape="rect" id="node184" href="$wb__nao__obstacle__direction_8h.html" title=" " alt="" coords="10649,355,10838,382"/>
+<area shape="rect" id="node186" href="$wb__dominant__frequencies_8h.html" title=" " alt="" coords="15694,355,15876,382"/>
+<area shape="rect" id="node187" href="$_microphone_frequencies_8h.html" title=" " alt="" coords="15448,355,15618,382"/>
+</map>

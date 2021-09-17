@@ -1,0 +1,8 @@
+<map id="guWhiteboard::APM_Command_t" name="guWhiteboard::APM_Command_t">
+<area shape="rect" id="node1" title="WB Ptr Class: APM_Command_t." alt="" coords="5,1368,219,1460"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="9,1168,215,1319"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="36,777,188,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="47,564,177,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="25,321,199,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="37,5,187,229"/>
+</map>

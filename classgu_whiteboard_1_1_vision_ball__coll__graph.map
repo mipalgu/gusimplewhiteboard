@@ -1,0 +1,3 @@
+<map id="guWhiteboard::VisionBall" name="guWhiteboard::VisionBall">
+<area shape="rect" id="node1" title="Whiteboard Class used by vision to report detect ball Reports balls detected in top or bottom camera,..." alt="" coords="5,5,171,229"/>
+</map>

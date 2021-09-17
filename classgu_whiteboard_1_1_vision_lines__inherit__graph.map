@@ -1,0 +1,4 @@
+<map id="guWhiteboard::VisionLines" name="guWhiteboard::VisionLines">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_lines." alt="" coords="5,189,180,413"/>
+<area shape="rect" id="node2" href="$structwb__vision__lines.html" title="Class use to represent lines detected by vision for a single camera and posted to the whiteboard." alt="" coords="35,5,150,141"/>
+</map>

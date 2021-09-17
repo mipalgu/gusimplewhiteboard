@@ -1,0 +1,8 @@
+<map id="guWhiteboard::HAL_RLegTarget_Ctrl_t" name="guWhiteboard::HAL_RLegTarget_Ctrl_t">
+<area shape="rect" id="node1" title="WB Ptr Class: HAL_RLegTarget_Ctrl_t." alt="" coords="5,1368,215,1475"/>
+<area shape="rect" id="node2" href="$classwb__generic__whiteboard__object.html" title=" " alt="" coords="11,1168,209,1319"/>
+<area shape="rect" id="node3" href="$classgeneric__whiteboard__object.html" title="This class allows you to set and get data directly into or out of the local whiteboard in shared memo..." alt="" coords="34,777,186,1119"/>
+<area shape="rect" id="node4" href="$structgsw__whiteboard__s.html" title="the underlying whiteboard object" alt="" coords="45,564,175,715"/>
+<area shape="rect" id="node5" href="$structgsw__simple__whiteboard__s.html" title="the actual whiteboard in shared mem" alt="" coords="23,321,197,501"/>
+<area shape="rect" id="node6" href="$uniongsw__simple__message.html" title="union type that is used to store data in shared memory" alt="" coords="35,5,185,229"/>
+</map>

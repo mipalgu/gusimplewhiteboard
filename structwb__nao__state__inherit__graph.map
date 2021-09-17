@@ -1,0 +1,4 @@
+<map id="wb_nao_state" name="wb_nao_state">
+<area shape="rect" id="node1" title="nao state c struct" alt="" coords="31,5,154,141"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_n_a_o___state.html" title="This class is for the robot to report its current state." alt="" coords="5,189,180,325"/>
+</map>

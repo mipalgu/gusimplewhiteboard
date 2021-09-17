@@ -1,0 +1,5 @@
+<map id="guWhiteboard::VisionDetectionGoalPost" name="guWhiteboard::VisionDetectionGoalPost">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_detection_goal_post." alt="" coords="5,360,204,599"/>
+<area shape="rect" id="node2" href="$structwb__vision__detection__goal__post.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,204,175,311"/>
+<area shape="rect" id="node3" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="35,5,174,97"/>
+</map>

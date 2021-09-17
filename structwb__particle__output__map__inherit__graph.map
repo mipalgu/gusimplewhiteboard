@@ -1,0 +1,4 @@
+<map id="wb_particle_output_map" name="wb_particle_output_map">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="31,5,194,97"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_particle_output_map.html" title="Provides a C++ wrapper around wb_particle_output_map." alt="" coords="5,145,220,369"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="guWhiteboard::VisionFieldFeature" name="guWhiteboard::VisionFieldFeature">
+<area shape="rect" id="node1" title="Provides a C++ wrapper around wb_vision_field_feature." alt="" coords="5,287,176,525"/>
+<area shape="rect" id="node2" href="$structwb__vision__field__feature.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="12,160,169,237"/>
+<area shape="rect" id="node3" href="$structwb__pixel__coordinate.html" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="21,5,160,97"/>
+</map>

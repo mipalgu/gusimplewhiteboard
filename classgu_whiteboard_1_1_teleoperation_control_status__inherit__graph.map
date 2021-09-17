@@ -1,0 +1,4 @@
+<map id="guWhiteboard::TeleoperationControlStatus" name="guWhiteboard::TeleoperationControlStatus">
+<area shape="rect" id="node1" title="Class to teleoperate a robot remotely." alt="" coords="5,175,204,311"/>
+<area shape="rect" id="node2" href="$structwb__teleoperation.html" title="struct for the teleoperation class" alt="" coords="20,5,189,127"/>
+</map>

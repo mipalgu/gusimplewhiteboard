@@ -1,0 +1,4 @@
+<map id="wb_sensors_hand_sensors" name="wb_sensors_hand_sensors">
+<area shape="rect" id="node1" title="WHITEBOARD_POSTER_STRING_CONVERSION." alt="" coords="9,5,189,156"/>
+<area shape="rect" id="node2" href="$classgu_whiteboard_1_1_sensors_hand_sensors.html" title="Provides a C++ wrapper around wb_sensors_hand_sensors." alt="" coords="5,204,192,443"/>
+</map>
